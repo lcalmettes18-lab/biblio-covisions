@@ -215,7 +215,20 @@ function boot(){
   drawThemes(); drawDates(); render();
 }
 
-fetch("seances.json", { cache: "no-store" })
+// Les séances sont stockées par mois (seances/2026-09.json), listés dans seances/index.json.
+// Ça permet à la tâche quotidienne de ne réécrire que le mois courant.
+const getJSON = u => fetch(u, { cache: "no-store" })
   .then(r => r.ok ? r.json() : [])
-  .catch(() => [])
-  .then(data => { SEANCES = Array.isArray(data) ? data : []; boot(); });
+  .catch(() => []);
+
+getJSON("seances/index.json")
+  .then(months => Promise.all((Array.isArray(months) ? months : []).map(m => getJSON(`seances/${m}.json`))))
+  .then(lists => {
+    SEANCES = lists.flat().filter(s => s && s.date);
+    SEANCES.sort((a, b) =>
+      b.date.localeCompare(a.date) ||
+      (a.jour.includes("soir") ? 1 : 0) - (b.jour.includes("soir") ? 1 : 0)
+    );
+    boot();
+  })
+  .catch(() => boot());
