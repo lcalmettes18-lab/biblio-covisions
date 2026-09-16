@@ -9,13 +9,25 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+Display:wght@600;700;800&family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap">
 <link rel="stylesheet" href="style.css">
+<style>
+  .bydate{
+    font:inherit;font-size:13.5px;font-weight:600;
+    color:var(--muted);background:none;border:0;cursor:pointer;
+    padding:2px 0;display:inline-flex;align-items:center;gap:7px;
+  }
+  .bydate:hover{color:var(--accent)}
+  .bydate:focus-visible{outline:2px solid var(--focus);outline-offset:3px;border-radius:3px}
+  .bydate::after{content:"▾";font-size:11px;transition:transform .15s}
+  .bydate[aria-expanded="true"]::after{transform:rotate(180deg)}
+  #datebox{margin-top:14px}
+</style>
 </head>
 <body>
 <div class="wrap">
   <header>
     <div class="eyebrow">Espace clientes · RESET</div>
     <h1>Bibliothèque des covisions</h1>
-    <p class="lede">Toutes les séances travaillées en covision, classées par thème. Trouve le sujet qui te parle : on te donne la date du replay <strong>et la minute exacte</strong> où il commence. Pas besoin de tout revoir.</p>
+    <p class="lede">Chaque séance travaillée en covision, avec la date du replay et la minute où elle commence.</p>
     <div class="counts" id="counts"></div>
   </header>
 
@@ -40,13 +52,15 @@
     </div>
 
     <div>
-      <div class="filters-head"><span>Ou une covision précise</span></div>
-      <div class="seg" role="group" aria-label="Catégorie de covision" id="catseg"></div>
-      <div class="chips dates" id="dates"></div>
-      <label class="datepick">
-        <span>Aller à une date :</span>
-        <input type="date" id="daypick" aria-label="Choisir une date de covision">
-      </label>
+      <button type="button" class="bydate" id="bydate" aria-expanded="false" aria-controls="datebox">Ou chercher une covision par sa date</button>
+      <div id="datebox" hidden>
+        <div class="seg" role="group" aria-label="Catégorie de covision" id="catseg"></div>
+        <div class="chips dates" id="dates"></div>
+        <label class="datepick">
+          <span>Aller à une date :</span>
+          <input type="date" id="daypick" aria-label="Choisir une date de covision">
+        </label>
+      </div>
     </div>
   </div>
 
@@ -59,5 +73,16 @@
 </div>
 
 <script src="app.js" defer></script>
+<script>
+  // le bloc « par date » reste replié : la plupart des clientes cherchent par thème
+  document.addEventListener("DOMContentLoaded", function(){
+    var b = document.getElementById("bydate"), box = document.getElementById("datebox");
+    b.addEventListener("click", function(){
+      var open = b.getAttribute("aria-expanded") === "true";
+      b.setAttribute("aria-expanded", String(!open));
+      box.hidden = open;
+    });
+  });
+</script>
 </body>
 </html>
