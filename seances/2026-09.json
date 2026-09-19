@@ -1,5 +1,78 @@
 [
   {
+    "who": "Aurore",
+    "date": "2026-09-17",
+    "jour": "jeudi 17 septembre (midi)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai recraqué, et maintenant j'ai honte de demander de l'aide »",
+    "body": "Elle a revu son ex il y a 15 jours, et ça a recommencé. Ce qui la retient, c'est le vide quand il n'est plus là. Et la honte d'en reparler à ses amis, qui lui répètent qu'elle est folle.",
+    "win": "Elle fait l'enfant intérieur tous les soirs et dort beaucoup mieux depuis.",
+    "tags": [
+      "Dépendance affective",
+      "Solitude & vide",
+      "Ma famille & mes proches"
+    ]
+  },
+  {
+    "who": "Nelly",
+    "date": "2026-09-17",
+    "jour": "jeudi 17 septembre (midi)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "« À chaque conflit, même minime, je me sens obligée de me justifier »",
+    "body": "Un simple message du père de ses filles, et la voilà en train de se justifier. Laure remonte le fil : la peur de décevoir, puis celle de rester seule. Et ça part de très loin.",
+    "win": "Elle a répondu au père sans se justifier, ce que l'ancienne Nelly n'aurait pas fait.",
+    "tags": [
+      "Culpabilité",
+      "Solitude & vide",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Sandra",
+    "date": "2026-09-17",
+    "jour": "jeudi 17 septembre (soir)",
+    "at": "le début",
+    "kind": "Juridique",
+    "titre": "« Je ne veux pas le voler, mais je ne serai pas sa rentière »",
+    "body": "Elle va racheter la maison et doit une indemnité d'occupation depuis 2024. 30 % d'écart entre ses évaluations et celles de son ex, qui propose de faire la moyenne. Maître Jouan lui montre comment reprendre la main.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Nolwenn",
+    "date": "2026-09-17",
+    "jour": "jeudi 17 septembre (soir)",
+    "at": "30 min",
+    "kind": "Juridique",
+    "titre": "« On va au tribunal une fois par an depuis 2018, j'appréhende d'y retourner »",
+    "body": "Trois enfants qu'elle a 100 % du temps, un père qui ne les prend jamais. Permis, voiture, orthodontie : elle paie tout. Faut-il ressaisir le JAF ou attendre les 18 ans de sa fille ? Maître Jouan tranche.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Aurore",
+    "date": "2026-09-17",
+    "jour": "jeudi 17 septembre (soir)",
+    "at": "40 min",
+    "kind": "Juridique",
+    "titre": "« Garde alternée, et c'est moi qui paie tout »",
+    "body": "Deux enfants en résidence alternée, aucun jugement, juste un accord à l'amiable. Il gagne 3 500, elle 2 000, et c'est elle qui avance tous les frais. Elle demande ce qu'elle pourrait réclamer comme pension.",
+    "win": "« Je vais me préparer un dossier en béton »",
+    "tags": [
+      "Argent avec l'ex",
+      "Garde & résidence",
+      "Poser ses limites"
+    ]
+  },
+  {
     "who": "Félicie",
     "date": "2026-09-15",
     "jour": "mardi 15 septembre (midi)",
