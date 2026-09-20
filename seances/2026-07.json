@@ -304,5 +304,80 @@
       "Confiance en soi",
       "Argent & budget"
     ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-07-09",
+    "jour": "jeudi 9 juillet (midi)",
+    "at": "10 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Le lendemain d'une soirée, je me refais le film vingt fois »",
+    "body": "Après chaque soirée, la même boucle : est-ce que j'ai été correcte, est-ce que j'ai bien profité ? Un brouillard dans la tête, et une histoire qui remonte à ses 15 ans. Laure l'aide à aller la chercher.",
+    "win": "",
+    "tags": [
+      "Culpabilité",
+      "Enfant intérieur",
+      "Confiance en soi"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-07-09",
+    "jour": "jeudi 9 juillet (midi)",
+    "at": "30 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Ils sont partis déjeuner sans moi, et j'ai craqué comme une gamine »",
+    "body": "Toute la bande part déjeuner, elle reste seule au bureau et s'effondre. Elle se sait entourée, pourtant chaque départ lui fait l'effet d'un coup de poignard. Laure remonte le fil, jusqu'à une blessure vieille de dix ans.",
+    "win": "",
+    "tags": [
+      "Solitude & vide",
+      "Tristesse & deuil",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Alexia",
+    "date": "2026-07-08",
+    "jour": "mercredi 8 juillet (soir)",
+    "at": "le début",
+    "kind": "Juridique",
+    "titre": "« On m'a dit qu'il avait lancé quelque chose contre moi, et je n'ai aucune nouvelle »",
+    "body": "Son ex lui reproche tout, jusqu'au footing que son fils n'a pas fait pendant la canicule. Et on lui dit qu'il l'aurait signalée il y a six mois. Maître Jouan lui explique ce que ça veut dire, et où s'arrête son droit de regard.",
+    "win": "",
+    "tags": [
+      "Règles chez l'autre parent",
+      "Procédure & audience",
+      "Communication avec l'ex"
+    ]
+  },
+  {
+    "who": "Aurélie",
+    "date": "2026-07-08",
+    "jour": "mercredi 8 juillet (soir)",
+    "at": "20 min",
+    "kind": "Juridique",
+    "titre": "« Il ne paie plus la pension, et j'ai peur de rentrer dans le dur »",
+    "body": "Garde alternée sur le papier, les enfants chez elle à 95 %. Plus de pension depuis janvier, une médiation au point mort. Relancer la médiation ou saisir le JAF ? Maître Jouan tranche, sans détour.",
+    "win": "Elle a fait sa demande de recouvrement de pension auprès de la CAF le jour même.",
+    "tags": [
+      "Argent avec l'ex",
+      "Garde & résidence",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Félicie",
+    "date": "2026-07-08",
+    "jour": "mercredi 8 juillet (soir)",
+    "at": "1 h",
+    "kind": "Juridique",
+    "titre": "« Le psy qu'il a accepté refuse ma fille. Je peux aller ailleurs sans son accord ? »",
+    "body": "Son ex a signé pour un psy précis, qui refuse finalement de suivre sa fille et oriente vers un autre centre. Le père dit non. Elle demande ce qu'elle risque si elle y va quand même.",
+    "win": "",
+    "tags": [
+      "Procédure & audience",
+      "Coparentalité",
+      "Conflit avec l'ex"
+    ]
   }
 ]
