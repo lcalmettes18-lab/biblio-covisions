@@ -379,5 +379,109 @@
       "Coparentalité",
       "Conflit avec l'ex"
     ]
+  },
+  {
+    "who": "Nolwenn",
+    "date": "2026-07-07",
+    "jour": "mardi 7 juillet (soir)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Si je suis heureuse, quelqu'un va m'enlever mon sourire »",
+    "body": "Face à ses parents, elle baisse les yeux et ne dit rien. Sa peur : que sa joie dérange. Laure remonte jusqu'à la petite fille de 3 ans qu'on a grondée parce qu'elle riait.",
+    "win": "Décide de garder son sourire face à ses parents, au lieu de baisser les yeux.",
+    "tags": [
+      "Ma famille & mes proches",
+      "Poser ses limites",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-07-07",
+    "jour": "mardi 7 juillet (soir)",
+    "at": "50 min",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai une petite voix qui me gâche toujours tous mes moments »",
+    "body": "Les vacances sont finies et elle se dit qu'elle n'en a pas assez profité. Cette voix-là ne s'arrête jamais, quoi qu'elle fasse. Laure va chercher qui parle.",
+    "win": "",
+    "tags": [
+      "Estime de soi",
+      "Enfant intérieur",
+      "Stress & anxiété"
+    ]
+  },
+  {
+    "who": "Aurélie",
+    "date": "2026-07-07",
+    "jour": "mardi 7 juillet (soir)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "Ce truc qui l'empêche d'aller jusqu'au bout du cadre",
+    "body": "Elle pose le cadre, mais jamais les conséquences. Sa mère ne lui interdisait rien, elle faisait juste la gueule deux jours. La séance bute sur quelque chose qui ne veut pas qu'on y touche.",
+    "win": "",
+    "tags": [
+      "Cadre & règles à la maison",
+      "Poser ses limites",
+      "Ma famille & mes proches"
+    ]
+  },
+  {
+    "who": "Wafaa",
+    "date": "2026-07-07",
+    "jour": "mardi 7 juillet (soir)",
+    "at": "1 h 35",
+    "kind": "Hebdomadaire",
+    "titre": "Son devoir de justicière, et ce qu'il lui coûte",
+    "body": "L'injustice la met en boule, au travail comme ailleurs, et elle repart au combat à chaque fois. Dans tout ça, elle s'oublie. Laure remonte au tout premier bouillonnement dans le ventre.",
+    "win": "La sensation dans le ventre a complètement disparu en fin de séance : « il y a plus rien ».",
+    "tags": [
+      "Colère & injustice",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Nathalie",
+    "date": "2026-07-07",
+    "jour": "mardi 7 juillet (soir)",
+    "at": "1 h 50",
+    "kind": "Hebdomadaire",
+    "titre": "« Quand quelqu'un parle, mon cerveau se ferme »",
+    "body": "Son patron lui parle fort et là, plus rien : le vide, les mots qui s'emmêlent, le souffle qui se bloque. Elle dit oui, et elle regrette juste après. Laure va chercher ce qui bouche.",
+    "win": "« Incroyable » : elle repart avec un casque imaginaire qui laisse passer le bon et garde le mauvais dehors.",
+    "tags": [
+      "Techniques de communication",
+      "Stress & anxiété",
+      "Confiance en soi"
+    ]
+  },
+  {
+    "who": "Wafaa",
+    "date": "2026-07-06",
+    "jour": "lundi 6 juillet (soir)",
+    "at": "20 min",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai plus 20 ans, j'ai 52 ans. Ça suffit. »",
+    "body": "Sa demi-sœur lui hurle dessus devant sa fille, chez leur mère. Elle garde son calme, mais cette fois c'est fini. Reste une question : jusqu'où va le respect qu'on doit à la famille ?",
+    "win": "A gardé son calme face à sa demi-sœur, et n'a pas cherché la validation de sa mère pour se protéger.",
+    "tags": [
+      "Ma famille & mes proches",
+      "Poser ses limites",
+      "Confiance en soi"
+    ]
+  },
+  {
+    "who": "Nathalie",
+    "date": "2026-07-06",
+    "jour": "lundi 6 juillet (soir)",
+    "at": "30 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je coupe contact, mais il suffit que la personne me recontacte et c'est reparti »",
+    "body": "Une relation qui la rend plus malheureuse qu'heureuse. Elle bloque, elle efface, puis elle y retourne. Et l'autre finit toujours par la convaincre que c'est elle, la toxique.",
+    "win": "",
+    "tags": [
+      "Dépendance affective",
+      "Solitude & vide",
+      "Poser ses limites"
+    ]
   }
 ]
