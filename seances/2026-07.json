@@ -336,6 +336,21 @@
     ]
   },
   {
+    "who": "Félicie",
+    "date": "2026-07-09",
+    "jour": "jeudi 9 juillet (midi)",
+    "at": "55 min",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai fait ce qui était bon pour mes enfants, et pourtant j'ai peur de sa réaction »",
+    "body": "Elle a maintenu le rendez-vous psy de sa fille malgré le refus de son ex. Fière d'elle, puis tout de suite la peur : qu'est-ce qu'il va faire ? Laure va chercher d'où vient cette corde qui serre.",
+    "win": "",
+    "tags": [
+      "Stress & anxiété",
+      "Conflit avec l'ex",
+      "Enfant intérieur"
+    ]
+  },
+  {
     "who": "Alexia",
     "date": "2026-07-08",
     "jour": "mercredi 8 juillet (soir)",
@@ -482,6 +497,35 @@
       "Dépendance affective",
       "Solitude & vide",
       "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Félicie",
+    "date": "2026-07-03",
+    "jour": "vendredi 3 juillet (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "« Comment je peux pas faire voir ma fille par un psy ? »",
+    "body": "Il avait dit oui au psy, mais pour un nom précis. Ce psy refuse, elle en trouve un autre, il s'y oppose devant les enfants. Et son propre avocat lui dit qu'elle joue son jeu.",
+    "win": "",
+    "tags": [
+      "Procédure & audience",
+      "Conflit avec l'ex",
+      "Coparentalité"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-07-02",
+    "jour": "jeudi 2 juillet (midi)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Est-ce que c'est normal d'avoir des roses et des épines ? »",
+    "body": "Séparée depuis l'automne, trois enfants. Hier elle se disait qu'elle l'aimait tellement. Ce matin, jour de son anniversaire, elle est « sans pitié ». Alors, elle a tourné la page ou pas ?",
+    "win": "Plus aucun sentiment pour son ex, et zéro contact avec lui de la semaine.",
+    "tags": [
+      "Tristesse & deuil",
+      "Communication avec l'ex"
     ]
   }
 ]
