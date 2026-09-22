@@ -1,5 +1,50 @@
 [
   {
+    "who": "Wafaa",
+    "date": "2026-09-21",
+    "jour": "lundi 21 septembre (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Ma fille pleure au milieu du week-end de son père : j'ai bien fait d'aller la chercher ? »",
+    "body": "Un samedi qui dérape chez le père, sa fille de 12 ans en larmes au téléphone. Wafaa va la chercher. Est-ce qu'elle doit le refaire la prochaine fois ? Laure lui répond cash.",
+    "win": "",
+    "tags": [
+      "Règles chez l'autre parent",
+      "Garde & résidence",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Félicie",
+    "date": "2026-09-21",
+    "jour": "lundi 21 septembre (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je suis bloquée entre la peur de prendre trop de risques et la peur de regretter »",
+    "body": "Un appart coup de cœur à décider avant le 30 septembre, et une maison qui n'est pas encore libérée. Deux peurs qui tirent chacune de leur côté. Une question de Laure débloque tout.",
+    "win": "A recadré son avocat par écrit après qu'il lui a parlé sèchement : excuses par SMS en 5 minutes.",
+    "tags": [
+      "Argent & budget",
+      "Stress & anxiété",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Iris",
+    "date": "2026-09-21",
+    "jour": "lundi 21 septembre (soir)",
+    "at": "1 h 10",
+    "kind": "Hebdomadaire",
+    "titre": "« De la dépression à la joie en une semaine : comment je fais pour ne pas retomber ? »",
+    "body": "Il y a deux semaines, Iris n'en pouvait plus. Aujourd'hui elle a retrouvé la joie, et elle a peur de retomber une fois le programme fini. Laure lui fait écrire sa propre recette.",
+    "win": "A demandé de l'aide à ses copines : un week-end sans enfants, une sieste, un bouquin et un rendez-vous galant.",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Acceptation de soi",
+      "Enfant intérieur"
+    ]
+  },
+  {
     "who": "Elodie",
     "date": "2026-09-18",
     "jour": "vendredi 18 septembre (midi)",
@@ -99,6 +144,20 @@
       "Argent avec l'ex",
       "Garde & résidence",
       "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Félicie",
+    "date": "2026-09-17",
+    "jour": "jeudi 17 septembre (soir)",
+    "at": "55 min",
+    "kind": "Juridique",
+    "titre": "« Il accepte le suivi psy des enfants si je lâche sur l'argent »",
+    "body": "Depuis mai, l'accord n'arrive jamais : à chaque fois il rajoute une condition. Elle est prête à céder sur le financier, pas sur ses enfants. Maître Jouan lui dit où est la vraie limite.",
+    "win": "",
+    "tags": [
+      "Procédure & audience",
+      "Conflit avec l'ex"
     ]
   },
   {
