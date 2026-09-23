@@ -1,5 +1,50 @@
 [
   {
+    "who": "Aurore",
+    "date": "2026-09-22",
+    "jour": "mardi 22 septembre (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Je l'ai déjà quitté trois fois, et à chaque fois je replonge »",
+    "body": "Elle l'a débloqué dimanche, juste pour voir ses stories. Elle sait que c'est fini, et elle y retourne quand même. Laure va chercher qui, à l'intérieur d'elle, réclame encore de l'attention.",
+    "win": "Deux soirées toute seule sans craquer et sans lui envoyer de message",
+    "tags": [
+      "Dépendance affective",
+      "Enfant intérieur",
+      "Solitude & vide"
+    ]
+  },
+  {
+    "who": "Maud",
+    "date": "2026-09-22",
+    "jour": "mardi 22 septembre (soir)",
+    "at": "30 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Plus je suis nickel, plus mes enfants m'aimeront longtemps »",
+    "body": "La maison, les devoirs, l'heure du coucher : elle se met la pression sur tout, elle se surcharge et elle s'épuise. Derrière ce besoin que tout soit nickel, il y a une phrase qu'elle n'avait jamais osé dire.",
+    "win": "Elle a dit à voix haute la croyance qu'elle gardait pour elle depuis des années",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Culpabilité",
+      "Relation avec mes enfants"
+    ]
+  },
+  {
+    "who": "Mélodie",
+    "date": "2026-09-22",
+    "jour": "mardi 22 septembre (soir)",
+    "at": "1 h",
+    "kind": "Hebdomadaire",
+    "titre": "« Arrêter de fumer, ou arrêter de lui appartenir ? »",
+    "body": "Elle avait arrêté cinq ans. Elle a repris en le rencontrant, lui. Aujourd'hui il est parti et la cigarette est toujours là. Laure va chercher ce qui la retient vraiment.",
+    "win": "Elle a décidé d'arrêter, et elle l'a posé devant tout le groupe",
+    "tags": [
+      "Dépendance affective",
+      "Confiance en soi",
+      "Sommeil & hygiène de vie"
+    ]
+  },
+  {
     "who": "Wafaa",
     "date": "2026-09-21",
     "jour": "lundi 21 septembre (soir)",
@@ -74,6 +119,20 @@
     ]
   },
   {
+    "who": "Sandra",
+    "date": "2026-09-17",
+    "jour": "jeudi 17 septembre (soir)",
+    "at": "le début",
+    "kind": "Juridique",
+    "titre": "« Je ne veux pas le voler, mais je ne serai pas sa rentière »",
+    "body": "Elle va racheter la maison et doit une indemnité d'occupation depuis 2024. 30 % d'écart entre ses évaluations et celles de son ex, qui propose de faire la moyenne. Maître Jouan lui montre comment reprendre la main.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Procédure & audience"
+    ]
+  },
+  {
     "who": "Aurore",
     "date": "2026-09-17",
     "jour": "jeudi 17 septembre (midi)",
@@ -101,20 +160,6 @@
       "Culpabilité",
       "Solitude & vide",
       "Enfant intérieur"
-    ]
-  },
-  {
-    "who": "Sandra",
-    "date": "2026-09-17",
-    "jour": "jeudi 17 septembre (soir)",
-    "at": "le début",
-    "kind": "Juridique",
-    "titre": "« Je ne veux pas le voler, mais je ne serai pas sa rentière »",
-    "body": "Elle va racheter la maison et doit une indemnité d'occupation depuis 2024. 30 % d'écart entre ses évaluations et celles de son ex, qui propose de faire la moyenne. Maître Jouan lui montre comment reprendre la main.",
-    "win": "",
-    "tags": [
-      "Argent avec l'ex",
-      "Procédure & audience"
     ]
   },
   {
@@ -369,6 +414,21 @@
     ]
   },
   {
+    "who": "Aurore G",
+    "date": "2026-09-10",
+    "jour": "jeudi 10 septembre (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "Dimanche je dois poser mon cadre à mon ex, et la panique monte",
+    "body": "Son ex veut changer le mode de garde, et la panique monte à l'idée de tenir ses positions : boyaux tordus, cordes emmêlées dans la tête. Derrière, ce n'est pas la peur d'être jugée. Laure remonte au déclencheur.",
+    "win": "« Je suis prête. Je paniquerai pas et je me mettrai pas en colère. » Avec l'énergie ancrée, jaune comme le soleil.",
+    "tags": [
+      "Garde & résidence",
+      "Poser ses limites",
+      "Conflit avec l'ex"
+    ]
+  },
+  {
     "who": "Delphine",
     "date": "2026-09-10",
     "jour": "jeudi 10 septembre (midi)",
@@ -398,51 +458,6 @@
     ]
   },
   {
-    "who": "Sophie",
-    "date": "2026-09-10",
-    "jour": "jeudi 10 septembre (midi)",
-    "at": "1 h",
-    "kind": "Hebdomadaire",
-    "titre": "Je culpabilise de ne pas avoir vu que mon mari s'éloignait",
-    "body": "Sophie se croit responsable à 100 % de sa séparation. Pendant qu'elle encaissait tout, elle n'a pas vu que son mari se sentait seul. Toute la covision s'y met, et le recadrage tombe.",
-    "win": "Sa phrase, sortie toute seule — « j'ai fait comme j'ai pu ». Laure lui demande de la mettre en quatre par trois.",
-    "tags": [
-      "Culpabilité",
-      "Tristesse & deuil",
-      "Estime de soi"
-    ]
-  },
-  {
-    "who": "Nelly",
-    "date": "2026-09-10",
-    "jour": "jeudi 10 septembre (midi)",
-    "at": "1 h 45",
-    "kind": "Hebdomadaire",
-    "titre": "La colère de les entendre se plaindre alors que je porte tout",
-    "body": "Nelly est usée d'entendre ses filles râler, et quand la grande se plaint qu'elle ne joue pas avec elle, c'est elle-même enfant qu'elle voit. Laure annonce d'entrée qu'il n'y aura pas d'hypnose, mais un recadrage.",
-    "win": "",
-    "tags": [
-      "Colère & injustice",
-      "Poser ses limites",
-      "Enfant intérieur"
-    ]
-  },
-  {
-    "who": "Aurore G",
-    "date": "2026-09-10",
-    "jour": "jeudi 10 septembre (soir)",
-    "at": "le début",
-    "kind": "Hebdomadaire",
-    "titre": "Dimanche je dois poser mon cadre à mon ex, et la panique monte",
-    "body": "Son ex veut changer le mode de garde, et la panique monte à l'idée de tenir ses positions : boyaux tordus, cordes emmêlées dans la tête. Derrière, ce n'est pas la peur d'être jugée. Laure remonte au déclencheur.",
-    "win": "« Je suis prête. Je paniquerai pas et je me mettrai pas en colère. » Avec l'énergie ancrée, jaune comme le soleil.",
-    "tags": [
-      "Garde & résidence",
-      "Poser ses limites",
-      "Conflit avec l'ex"
-    ]
-  },
-  {
     "who": "Nolwenn",
     "date": "2026-09-10",
     "jour": "jeudi 10 septembre (soir)",
@@ -458,6 +473,21 @@
     ]
   },
   {
+    "who": "Sophie",
+    "date": "2026-09-10",
+    "jour": "jeudi 10 septembre (midi)",
+    "at": "1 h",
+    "kind": "Hebdomadaire",
+    "titre": "Je culpabilise de ne pas avoir vu que mon mari s'éloignait",
+    "body": "Sophie se croit responsable à 100 % de sa séparation. Pendant qu'elle encaissait tout, elle n'a pas vu que son mari se sentait seul. Toute la covision s'y met, et le recadrage tombe.",
+    "win": "Sa phrase, sortie toute seule — « j'ai fait comme j'ai pu ». Laure lui demande de la mettre en quatre par trois.",
+    "tags": [
+      "Culpabilité",
+      "Tristesse & deuil",
+      "Estime de soi"
+    ]
+  },
+  {
     "who": "Céline V",
     "date": "2026-09-10",
     "jour": "jeudi 10 septembre (soir)",
@@ -469,6 +499,21 @@
     "tags": [
       "Dépendance affective",
       "Solitude & vide",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Nelly",
+    "date": "2026-09-10",
+    "jour": "jeudi 10 septembre (midi)",
+    "at": "1 h 45",
+    "kind": "Hebdomadaire",
+    "titre": "La colère de les entendre se plaindre alors que je porte tout",
+    "body": "Nelly est usée d'entendre ses filles râler, et quand la grande se plaint qu'elle ne joue pas avec elle, c'est elle-même enfant qu'elle voit. Laure annonce d'entrée qu'il n'y aura pas d'hypnose, mais un recadrage.",
+    "win": "",
+    "tags": [
+      "Colère & injustice",
+      "Poser ses limites",
       "Enfant intérieur"
     ]
   },
