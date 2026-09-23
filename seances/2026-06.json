@@ -27,5 +27,108 @@
       "Argent avec l'ex",
       "Coparentalité"
     ]
+  },
+  {
+    "who": "Barbara",
+    "date": "2026-06-26",
+    "jour": "vendredi 26 juin (midi)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "Trois semaines compliquées, le programme à l'arrêt : par quoi elle reprend ?",
+    "body": "Elle n'a pas avancé depuis trois semaines, et son fils part en vacances. Elle veut en profiter pour bosser sur elle, mais elle ne sait plus par quel bout. Laure lui dit où mettre son énergie en premier.",
+    "win": "",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Procrastination"
+    ]
+  },
+  {
+    "who": "Eva",
+    "date": "2026-06-26",
+    "jour": "vendredi 26 juin (midi)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "La mutuelle est à lui, les rendez-vous c'est elle, et l'argent n'arrive jamais",
+    "body": "Il paie la mutuelle des enfants, elle prend tous les rendez-vous, et quand il faut avancer les frais il n'a jamais l'argent. Et là, ils ne sont pas d'accord sur une décision à prendre pour leur fille.",
+    "win": "Elle a pris sa propre mutuelle, juste pour elle.",
+    "tags": [
+      "Argent avec l'ex",
+      "Coparentalité",
+      "Logistique & organisation"
+    ]
+  },
+  {
+    "who": "Wafaa",
+    "date": "2026-06-26",
+    "jour": "vendredi 26 juin (midi)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "Son directeur lui laisse le choix : rester sous conditions, ou partir",
+    "body": "Un mail raté, un avertissement écrit, un ultimatum. Elle tient, elle se bat, et elle en a marre de toujours devoir se battre. Laure lui montre pourquoi ça lui revient toujours dessus.",
+    "win": "Face à son directeur, elle n'a pas riposté : elle a laissé le silence, puis elle a tout redemandé par écrit.",
+    "tags": [
+      "Pro & reconversion",
+      "Colère & injustice",
+      "Stress & anxiété"
+    ]
+  },
+  {
+    "who": "Eva",
+    "date": "2026-06-25",
+    "jour": "jeudi 25 juin (midi)",
+    "at": "50 min",
+    "kind": "Hebdomadaire",
+    "titre": "Si elle ne gagne pas assez, il n'y a personne derrière",
+    "body": "Trois enfants, son activité à faire tourner toute seule, et plus personne pour assurer ses arrières. Ce n'est pas d'être seule qui lui fait peur. C'est ce qui se passe si elle n'y arrive pas.",
+    "win": "Sur la colère envers son ex : ce qu'il fait ou ne fait pas ne la chamboule plus.",
+    "tags": [
+      "Solitude & vide",
+      "Argent & budget",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-06-25",
+    "jour": "jeudi 25 juin (midi)",
+    "at": "50 min",
+    "kind": "Hebdomadaire",
+    "titre": "Toujours sous le même toit que son ex, et elle sature",
+    "body": "Un an qu'elle cherche du travail, et sans CDI pas de location. Donc elle reste en colocation avec son ex. Ce qui monte maintenant, ce n'est plus l'agacement, c'est la saturation.",
+    "win": "Sa peur du conflit a baissé d'un cran : elle est allée vers sa fille malgré l'appréhension.",
+    "tags": [
+      "Stress & anxiété",
+      "Pro & reconversion"
+    ]
+  },
+  {
+    "who": "Iris",
+    "date": "2026-06-23",
+    "jour": "mardi 23 juin (soir)",
+    "at": "20 min",
+    "kind": "Hebdomadaire",
+    "titre": "Elle a trouvé la clé. Maintenant il faut aller parler à son père.",
+    "body": "Fin d'année, elle est à bout. Et en lisant Lise Bourbeau, elle comprend d'où ça vient : son père. Elle veut aller lui parler pour de vrai, et elle panique rien qu'à l'idée. Laure lui donne la marche à suivre.",
+    "win": "Elle a mis le doigt sur sa blessure d'abandon, et d'un coup elle a tout compris de ses relations avec les hommes.",
+    "tags": [
+      "Ma famille & mes proches",
+      "Techniques de communication",
+      "Stress & anxiété"
+    ]
+  },
+  {
+    "who": "Anne-Cécile",
+    "date": "2026-06-23",
+    "jour": "mardi 23 juin (soir)",
+    "at": "1 h 10",
+    "kind": "Hebdomadaire",
+    "titre": "À 45 ans, elle guette encore le moment où on va la trouver bizarre",
+    "body": "Harcelée au collège, mise à l'écart, isolée. Aujourd'hui elle met le moins de gens possible dans sa vie. Et quand elle en reparle, ce n'est pas de la tristesse qui monte, c'est de la colère.",
+    "win": "",
+    "tags": [
+      "Colère & injustice",
+      "Estime de soi",
+      "Enfant intérieur"
+    ]
   }
 ]
