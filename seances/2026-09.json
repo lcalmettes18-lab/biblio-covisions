@@ -119,20 +119,6 @@
     ]
   },
   {
-    "who": "Sandra",
-    "date": "2026-09-17",
-    "jour": "jeudi 17 septembre (soir)",
-    "at": "le début",
-    "kind": "Juridique",
-    "titre": "« Je ne veux pas le voler, mais je ne serai pas sa rentière »",
-    "body": "Elle va racheter la maison et doit une indemnité d'occupation depuis 2024. 30 % d'écart entre ses évaluations et celles de son ex, qui propose de faire la moyenne. Maître Jouan lui montre comment reprendre la main.",
-    "win": "",
-    "tags": [
-      "Argent avec l'ex",
-      "Procédure & audience"
-    ]
-  },
-  {
     "who": "Aurore",
     "date": "2026-09-17",
     "jour": "jeudi 17 septembre (midi)",
@@ -160,6 +146,20 @@
       "Culpabilité",
       "Solitude & vide",
       "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Sandra",
+    "date": "2026-09-17",
+    "jour": "jeudi 17 septembre (soir)",
+    "at": "le début",
+    "kind": "Juridique",
+    "titre": "« Je ne veux pas le voler, mais je ne serai pas sa rentière »",
+    "body": "Elle va racheter la maison et doit une indemnité d'occupation depuis 2024. 30 % d'écart entre ses évaluations et celles de son ex, qui propose de faire la moyenne. Maître Jouan lui montre comment reprendre la main.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Procédure & audience"
     ]
   },
   {
@@ -414,21 +414,6 @@
     ]
   },
   {
-    "who": "Aurore G",
-    "date": "2026-09-10",
-    "jour": "jeudi 10 septembre (soir)",
-    "at": "le début",
-    "kind": "Hebdomadaire",
-    "titre": "Dimanche je dois poser mon cadre à mon ex, et la panique monte",
-    "body": "Son ex veut changer le mode de garde, et la panique monte à l'idée de tenir ses positions : boyaux tordus, cordes emmêlées dans la tête. Derrière, ce n'est pas la peur d'être jugée. Laure remonte au déclencheur.",
-    "win": "« Je suis prête. Je paniquerai pas et je me mettrai pas en colère. » Avec l'énergie ancrée, jaune comme le soleil.",
-    "tags": [
-      "Garde & résidence",
-      "Poser ses limites",
-      "Conflit avec l'ex"
-    ]
-  },
-  {
     "who": "Delphine",
     "date": "2026-09-10",
     "jour": "jeudi 10 septembre (midi)",
@@ -458,21 +443,6 @@
     ]
   },
   {
-    "who": "Nolwenn",
-    "date": "2026-09-10",
-    "jour": "jeudi 10 septembre (soir)",
-    "at": "35 min",
-    "kind": "Hebdomadaire",
-    "titre": "Je me trouve grosse et vieille, et je pense que je ne plairai plus à personne",
-    "body": "Nolwenn arrive avec une phrase très dure sur elle-même : trop grosse, trop vieille, plus personne. Laure la démonte croyance par croyance. Et en creusant, un tout autre nœud apparaît.",
-    "win": "",
-    "tags": [
-      "Image de soi",
-      "Solitude & vide",
-      "Tristesse & deuil"
-    ]
-  },
-  {
     "who": "Sophie",
     "date": "2026-09-10",
     "jour": "jeudi 10 septembre (midi)",
@@ -488,21 +458,6 @@
     ]
   },
   {
-    "who": "Céline V",
-    "date": "2026-09-10",
-    "jour": "jeudi 10 septembre (soir)",
-    "at": "1 h 10",
-    "kind": "Hebdomadaire",
-    "titre": "J'attends les messages d'un homme marié, et je sais très bien que ça ne mènera à rien",
-    "body": "Céline dépose une histoire qu'elle n'avait dite à personne : un collègue marié, elle a fini par céder, et depuis il est distant. Elle regarde son téléphone dix fois par jour. Laure nomme le mécanisme sans détour.",
-    "win": "Elle l'a dit à voix haute, alors qu'elle n'en avait parlé à personne.",
-    "tags": [
-      "Dépendance affective",
-      "Solitude & vide",
-      "Enfant intérieur"
-    ]
-  },
-  {
     "who": "Nelly",
     "date": "2026-09-10",
     "jour": "jeudi 10 septembre (midi)",
@@ -514,6 +469,51 @@
     "tags": [
       "Colère & injustice",
       "Poser ses limites",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Aurore G",
+    "date": "2026-09-10",
+    "jour": "jeudi 10 septembre (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "Dimanche je dois poser mon cadre à mon ex, et la panique monte",
+    "body": "Son ex veut changer le mode de garde, et la panique monte à l'idée de tenir ses positions : boyaux tordus, cordes emmêlées dans la tête. Derrière, ce n'est pas la peur d'être jugée. Laure remonte au déclencheur.",
+    "win": "« Je suis prête. Je paniquerai pas et je me mettrai pas en colère. » Avec l'énergie ancrée, jaune comme le soleil.",
+    "tags": [
+      "Garde & résidence",
+      "Poser ses limites",
+      "Conflit avec l'ex"
+    ]
+  },
+  {
+    "who": "Nolwenn",
+    "date": "2026-09-10",
+    "jour": "jeudi 10 septembre (soir)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "Je me trouve grosse et vieille, et je pense que je ne plairai plus à personne",
+    "body": "Nolwenn arrive avec une phrase très dure sur elle-même : trop grosse, trop vieille, plus personne. Laure la démonte croyance par croyance. Et en creusant, un tout autre nœud apparaît.",
+    "win": "",
+    "tags": [
+      "Image de soi",
+      "Solitude & vide",
+      "Tristesse & deuil"
+    ]
+  },
+  {
+    "who": "Céline V",
+    "date": "2026-09-10",
+    "jour": "jeudi 10 septembre (soir)",
+    "at": "1 h 10",
+    "kind": "Hebdomadaire",
+    "titre": "J'attends les messages d'un homme marié, et je sais très bien que ça ne mènera à rien",
+    "body": "Céline dépose une histoire qu'elle n'avait dite à personne : un collègue marié, elle a fini par céder, et depuis il est distant. Elle regarde son téléphone dix fois par jour. Laure nomme le mécanisme sans détour.",
+    "win": "Elle l'a dit à voix haute, alors qu'elle n'en avait parlé à personne.",
+    "tags": [
+      "Dépendance affective",
+      "Solitude & vide",
       "Enfant intérieur"
     ]
   },
