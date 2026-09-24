@@ -130,5 +130,147 @@
       "Estime de soi",
       "Enfant intérieur"
     ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-06-22",
+    "jour": "lundi 22 juin (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Je n'ai jamais su me projeter dans le futur »",
+    "body": "Elle bloque sur le manifeste personnel. Se projeter dans l'avenir, elle n'a jamais su faire. Elle croit que ce qu'elle écrit sera gravé dans le marbre. Laure lui montre où est le malentendu.",
+    "win": "Elle propose au groupe de continuer les covisions entre elles après le programme, et elle a contacté l'Association Française des Solos.",
+    "tags": [
+      "Confiance en soi"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-06-22",
+    "jour": "lundi 22 juin (soir)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "Son ex l'a envoyée balader, alors à quoi sert la charte ?",
+    "body": "La charte de coparentalité parallèle, elle ne l'a pas remplie : son ex a refusé net. Elle se demande à quoi ça sert si lui n'est pas d'accord. Laure reprend le document avec elle, case par case.",
+    "win": "",
+    "tags": [
+      "Coparentalité",
+      "Communication avec l'ex"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-06-22",
+    "jour": "lundi 22 juin (soir)",
+    "at": "10 min",
+    "kind": "Hebdomadaire",
+    "titre": "Ses filles partent tout juillet, et elle a peur du vide",
+    "body": "Ses filles partent tout le mois de juillet chez leur père. Un orteil cassé, plus de rando, plus de yoga. Elle a peur de tourner en rond et de finir sur son téléphone. Laure répond en deux temps.",
+    "win": "",
+    "tags": [
+      "Solitude & vide",
+      "Stress & anxiété"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-06-19",
+    "jour": "vendredi 19 juin (midi)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "Sa fille de 8 ans l'a insultée, et la conséquence arrive 5 jours trop tard",
+    "body": "Sa fille de 8 ans lui a mal parlé mercredi soir. Elle ne la revoit que mardi. Peut-on encore poser une conséquence 5 jours après ? Laure reprend tout, et sort sa feuille de papier froissée.",
+    "win": "",
+    "tags": [
+      "Cadre & règles à la maison",
+      "Relation avec mes enfants"
+    ]
+  },
+  {
+    "who": "Aurélie",
+    "date": "2026-06-19",
+    "jour": "vendredi 19 juin (midi)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai ras-le-bol de les voir tout le temps »",
+    "body": "Elle ne travaille pas, le père ne les prend presque jamais, et deux mois d'été arrivent avec ses ados de 11 et 15 ans. Plus de patience, plus de sas. Laure va chercher où est la vraie fuite.",
+    "win": "",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Poser ses limites",
+      "Ados"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-06-19",
+    "jour": "vendredi 19 juin (midi)",
+    "at": "1 h 15",
+    "kind": "Hebdomadaire",
+    "titre": "Chômage maintenant, ou après le divorce ?",
+    "body": "Son patron a fixé des objectifs intenables et parle de changer l'équipe. Le passage devant le juge est en novembre. Mieux vaut y arriver en CDI ou au chômage ? Laure tranche.",
+    "win": "",
+    "tags": [
+      "Pro & reconversion",
+      "Procédure & audience",
+      "Argent avec l'ex"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-06-19",
+    "jour": "vendredi 19 juin (midi)",
+    "at": "1 h 25",
+    "kind": "Hebdomadaire",
+    "titre": "Elle a craqué hier soir, et l'été arrive",
+    "body": "Trois enfants de 3, 5 et 8 ans, une soirée qui part en vrille, et l'été entier devant elle toute seule. Elle n'a plus l'énergie de se battre le matin. Laure lui fait poser une chose avant tout le reste.",
+    "win": "Elle a pris une nounou pour septembre.",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Logistique & organisation"
+    ]
+  },
+  {
+    "who": "Eva",
+    "date": "2026-06-18",
+    "jour": "jeudi 18 juin (midi)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "Sa colère contre son ex finit toujours par se retourner contre elle",
+    "body": "Ce qu'elle voudrait, c'est l'indifférence : qu'il fasse ou qu'il ne fasse pas, que ça ne la touche plus. Sauf que la colère revient vers elle, c'est moi qui ai laissé faire. Laure va voir qui parle.",
+    "win": "",
+    "tags": [
+      "Colère & injustice",
+      "Culpabilité",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-06-18",
+    "jour": "jeudi 18 juin (midi)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Ses filles prennent son téléphone et elle n'ose pas le reprendre",
+    "body": "Dire ce qu'elle pense, elle n'y arrive pas. Même avec ses filles : un étau dans la poitrine, et elle se tait. Laure descend voir qui serre l'étau, et à quel âge il a appris à le faire.",
+    "win": "",
+    "tags": [
+      "Poser ses limites",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Caroline",
+    "date": "2026-06-18",
+    "jour": "jeudi 18 juin (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "Deux heures chaque soir pour coucher sa fille de 5 ans",
+    "body": "Jade a 5 ans. Elle se relève dix fois, s'installe devant la cuisine, et le coucher s'étire sur deux heures. Le rituel existe déjà. Caroline veut tenir sans s'épuiser. Laure et le groupe répondent.",
+    "win": "",
+    "tags": [
+      "Sommeil des enfants",
+      "Cadre & règles à la maison"
+    ]
   }
 ]
