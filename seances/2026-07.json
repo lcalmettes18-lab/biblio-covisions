@@ -91,7 +91,7 @@
     "jour": "jeudi 23 juillet (midi)",
     "at": "le début",
     "kind": "Hebdomadaire",
-    "titre": "Mon ventre a paniqué avant moi",
+    "titre": "Mon ventre a paniqué avant moi",
     "body": "Dix minutes de mal de ventre juste avant son rendez-vous à la banque, puis plus rien de la journée. Félicie est médecin, elle n'a pas d'explication rationnelle. Laure remonte le fil.",
     "win": "",
     "tags": [
@@ -110,6 +110,7 @@
     "body": "Quand ses enfants sont chez leur père, Sabine s'agite sans arrêt et rien ne lui fait plaisir. Dans sa tête, une phrase des femmes de sa famille : une bonne mère doit se sacrifier.",
     "win": "Elle a mis le doigt sur une chose qui lui fait du bien à elle : se baigner dans la mer.",
     "tags": [
+      "Pression & perfectionnisme",
       "Culpabilité",
       "Solitude & vide"
     ]
@@ -242,6 +243,7 @@
     "body": "Des journées de 8h à 20h, rien de délégué, même la cuisine refaite juste avant la covision. Derrière la peur que ce soit mal fait, une vieille exigence… et une trahison.",
     "win": "Elle a écrit ses lettres de colère tous les soirs pendant une semaine, et les cauchemars ont cessé.",
     "tags": [
+      "Pression & perfectionnisme",
       "Fatigue & charge mentale",
       "Ma famille & mes proches"
     ]
