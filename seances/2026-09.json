@@ -1,5 +1,49 @@
 [
   {
+    "who": "Nolwenn",
+    "date": "2026-09-24",
+    "jour": "jeudi 24 septembre (midi)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "« 5h-23h, et je ne sais plus reconnaître quand je suis fatiguée »",
+    "body": "Des journées de 5h à 23h, et le soir elle ne sait plus quoi choisir : bosser, manger du chocolat, ou dormir. Elle demande un chiffre précis. Laure lui en donne un.",
+    "win": "Elle est partie à sa formation, celle qu'elle attendait depuis trois ans.",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Sommeil & hygiène de vie",
+      "Culpabilité"
+    ]
+  },
+  {
+    "who": "Sophie",
+    "date": "2026-09-24",
+    "jour": "jeudi 24 septembre (midi)",
+    "at": "1 h 10",
+    "kind": "Hebdomadaire",
+    "titre": "« Si j'avais vu qu'il s'éloignait, on ne serait pas séparés »",
+    "body": "Elle se répète depuis des mois que si elle avait vu son mari s'éloigner, ils seraient encore ensemble. Laure lui demande d'aller rencontrer la partie d'elle qui lui martèle ça. Ce qu'elle trouve n'était pas prévu.",
+    "win": "Elle a écrit la liste des raisons pour lesquelles elle n'est pas coupable — et, sans qu'on lui demande, celle d'en face aussi.",
+    "tags": [
+      "Culpabilité",
+      "Enfant intérieur",
+      "Acceptation de soi"
+    ]
+  },
+  {
+    "who": "Félicie",
+    "date": "2026-09-24",
+    "jour": "jeudi 24 septembre (midi)",
+    "at": "1 h 40",
+    "kind": "Hebdomadaire",
+    "titre": "« Je me réveille à 3h du matin et mon cerveau ne s'arrête plus »",
+    "body": "Elle se couche plus tôt, elle prend de la mélatonine, et pourtant à 3h du matin son cerveau la réveille pour une heure et demie. Ce ne sont pas des oublis. Laure lui dit ce que c'est.",
+    "win": "Après cinq mois de négociations, son ex a enfin signé l'accord complet.",
+    "tags": [
+      "Sommeil & hygiène de vie",
+      "Stress & anxiété"
+    ]
+  },
+  {
     "who": "Aurore",
     "date": "2026-09-22",
     "jour": "mardi 22 septembre (soir)",
