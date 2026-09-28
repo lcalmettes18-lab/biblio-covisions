@@ -623,5 +623,88 @@
       "Procédure & audience",
       "Confiance en soi"
     ]
+  },
+  {
+    "who": "Aurore",
+    "date": "2026-06-01",
+    "jour": "lundi 1er juin (midi)",
+    "at": "le début",
+    "kind": "Juridique",
+    "titre": "18 ans de mariage, trois enfants, et son ex qui refuse toute prestation compensatoire",
+    "body": "18 ans de mariage, trois grossesses, cinq ans à temps partiel. Son ex refuse toute prestation compensatoire et propose une pension bien sous le barème. Elle veut savoir à quoi elle peut prétendre.",
+    "win": "",
+    "tags": [
+      "Procédure & audience",
+      "Argent avec l'ex"
+    ]
+  },
+  {
+    "who": "Caroline",
+    "date": "2026-06-01",
+    "jour": "lundi 1er juin (midi)",
+    "at": "20 min",
+    "kind": "Juridique",
+    "titre": "Elle avait mis 55 000 € d'apport, elle en récupère 43 000. C'est normal ?",
+    "body": "Le père de sa fille rachète ses parts de l'appartement. Elle avait mis 55 000 € d'apport, elle en récupère 43 000. Le rendez-vous notaire est dans quelques jours. Est-ce qu'elle a son mot à dire ?",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex"
+    ]
+  },
+  {
+    "who": "Eva",
+    "date": "2026-06-01",
+    "jour": "lundi 1er juin (midi)",
+    "at": "25 min",
+    "kind": "Juridique",
+    "titre": "Il a signé l'accord, et à deux semaines de l'audience il revient sur tout",
+    "body": "Requête conjointe signée par les deux, validée par les deux avocates, audience le 11 juin. À deux semaines, son mari change d'avocate et refuse de payer ce qu'il avait accepté. Il peut faire ça ?",
+    "win": "",
+    "tags": [
+      "Procédure & audience",
+      "Conflit avec l'ex"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-06-01",
+    "jour": "lundi 1er juin (midi)",
+    "at": "40 min",
+    "kind": "Juridique",
+    "titre": "Elle a tout quitté pour le suivre à Bayonne, aujourd'hui elle ne peut pas se reloger",
+    "body": "Elle a quitté Paris, ses amis, sa famille pour le suivre à Bayonne. Séparée, elle ne trouve aucun logement avec trois enfants. Pour elle, la moindre des choses c'est qu'il l'aide.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Logistique & organisation"
+    ]
+  },
+  {
+    "who": "Félicie",
+    "date": "2026-06-01",
+    "jour": "lundi 1er juin (midi)",
+    "at": "50 min",
+    "kind": "Juridique",
+    "titre": "Le père n'emmène jamais les enfants à leurs activités, et le gala de danse est tombé chez lui",
+    "body": "Il n'emmène jamais les enfants à leurs activités, qu'elle paye seule. Le gala de danse de sa fille tombe sur son week-end : elle a dû venir la chercher et laisser son fils de 8 ans. Que dire au juge ?",
+    "win": "",
+    "tags": [
+      "Règles chez l'autre parent",
+      "Garde & résidence"
+    ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-06-01",
+    "jour": "lundi 1er juin (midi)",
+    "at": "1 h 15",
+    "kind": "Juridique",
+    "titre": "Son ex ne rembourse jamais les frais de santé, jugement ou pas",
+    "body": "Frais de santé avancés, justificatifs envoyés, jugement à l'appui : il ne rembourse rien. Elle attend combien avant d'appeler un huissier ? Et cette allocation de rentrée qui la fait tout payer seule.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "École & scolarité"
+    ]
   }
 ]
