@@ -116,5 +116,79 @@
       "Poser ses limites",
       "Enfant en opposition"
     ]
+  },
+  {
+    "who": "Iris",
+    "date": "2026-05-18",
+    "jour": "lundi 18 mai (soir)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "Ça fait des années que je travaille ma colère, quand va-t-elle partir ?",
+    "body": "Elle s'observe, elle progresse, et pourtant la colère explose en fin de journée, et ce sont ses enfants qui prennent. Elle dit être en colère contre la vie. Laure lui montre d'où ça part vraiment.",
+    "win": "Trois colères évitées cette semaine en repérant son système nerveux à temps, et l'étape 1 terminée.",
+    "tags": [
+      "Colère & injustice",
+      "Enfant intérieur",
+      "Relation avec mes enfants"
+    ]
+  },
+  {
+    "who": "Wafaa",
+    "date": "2026-05-18",
+    "jour": "lundi 18 mai (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Sa fille de 18 ans donne des ordres à sa petite sœur, comme si elle prenait sa place",
+    "body": "Sa fille de 18 ans parle à sa petite sœur de 12 ans comme si elle était la mère. Psy, coach, moments privilégiés : elle a tout tenté, rien ne s'ouvre. Laure lui demande de faire l'inverse.",
+    "win": "Son premier trek : plus de 50 km à pied, sans téléphone et sans appeler personne.",
+    "tags": [
+      "Ados",
+      "Relation avec mes enfants",
+      "Enfant en opposition"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-05-11",
+    "jour": "lundi 11 mai (soir)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "Mes enfants me parlent mal, comment me faire respecter ?",
+    "body": "Son fils de 8 ans lui dit « dégage », sa fille de 3 ans la reprend. Et elle reconnaît qu'à la maison, on parle mal, elle aussi. Laure lui montre pourquoi « me faire respecter » est déjà la mauvaise question.",
+    "win": "",
+    "tags": [
+      "Cadre & règles à la maison",
+      "Techniques de communication",
+      "Relation avec mes enfants"
+    ]
+  },
+  {
+    "who": "Aurélie",
+    "date": "2026-05-06",
+    "jour": "mercredi 6 mai (soir)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "Si je ne suis pas derrière lui, il ne fait rien",
+    "body": "Sa fille a 16 de moyenne sans travailler. Son fils de 11 ans, lui, ne fait rien si elle n'est pas derrière. Elle n'arrive pas à lâcher, et elle voit bien l'étiquette que ça installe entre eux.",
+    "win": "",
+    "tags": [
+      "École & scolarité",
+      "Relation avec mes enfants"
+    ]
+  },
+  {
+    "who": "Wafaa",
+    "date": "2026-05-06",
+    "jour": "mercredi 6 mai (soir)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "Sa fille de 18 ans ne parle plus à personne, et elle a déjà tout essayé",
+    "body": "Plus d'école, plus de projet, et pas un mot depuis deux ans. Psys, coaches, stages, écoles de sport : elle a tout proposé, tout a planté. Laure lui demande de faire exactement l'inverse.",
+    "win": "Sa fille est venue vers elle d'elle-même pour reparler de l'école de sport.",
+    "tags": [
+      "Ados",
+      "École & scolarité",
+      "Relation avec mes enfants"
+    ]
   }
 ]
