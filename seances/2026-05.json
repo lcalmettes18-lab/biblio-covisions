@@ -190,5 +190,63 @@
       "École & scolarité",
       "Relation avec mes enfants"
     ]
+  },
+  {
+    "who": "Félicie",
+    "date": "2026-05-04",
+    "jour": "lundi 4 mai (midi)",
+    "at": "le début",
+    "kind": "Enfants-Ados",
+    "titre": "Roblox, 30 minutes, et la crise qui dure une heure",
+    "body": "Son fils de 8 ans, TDAH. La tablette s'arrête au bout de 30 minutes et la crise démarre, parfois une heure. Elle menace, elle cède, elle recommence. Julie explique d'où vient vraiment la crise.",
+    "win": "",
+    "tags": [
+      "Écrans",
+      "Mon enfant atypique",
+      "Cadre & règles à la maison"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-05-04",
+    "jour": "lundi 4 mai (midi)",
+    "at": "15 min",
+    "kind": "Enfants-Ados",
+    "titre": "Sa fille de 8 ans ne supporte pas de perdre",
+    "body": "Un jeu, elle perd, et c'est la colère pour un bon moment. Coralie a essayé d'expliquer, de relativiser, de comparer la colère à un feu qu'on attise. Rien ne prend. Julie prend le problème par l'autre bout.",
+    "win": "",
+    "tags": [
+      "Relation avec mes enfants",
+      "Cadre & règles à la maison"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-05-04",
+    "jour": "lundi 4 mai (midi)",
+    "at": "25 min",
+    "kind": "Enfants-Ados",
+    "titre": "Couper la semaine en deux et changer d'école : est-ce qu'on casse tout ?",
+    "body": "Séparée depuis l'automne, trois enfants de 3, 5 et 8 ans. Elle veut une école neutre, loin de l'ex-belle-famille, et se demande si c'est traumatisant pour eux. Julie répond aux deux questions.",
+    "win": "",
+    "tags": [
+      "Garde & résidence",
+      "École & scolarité"
+    ]
+  },
+  {
+    "who": "Wafaa",
+    "date": "2026-05-04",
+    "jour": "lundi 4 mai (midi)",
+    "at": "30 min",
+    "kind": "Enfants-Ados",
+    "titre": "Sa fille de 18 ans ne supporte plus aucune consigne",
+    "body": "Dès qu'elle demande quelque chose, sa fille se braque. Wafaa voudrait poser une limite et arrêter de se suradapter, sans hausser le ton. Julie déplie ce qui reste comme levier à 18 ans.",
+    "win": "",
+    "tags": [
+      "Ados",
+      "Poser ses limites",
+      "Relation avec mes enfants"
+    ]
   }
 ]
