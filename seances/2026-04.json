@@ -68,5 +68,91 @@
       "Fatigue & charge mentale",
       "Culpabilité"
     ]
+  },
+  {
+    "who": "Delphine",
+    "date": "2026-04-17",
+    "jour": "vendredi 17 avril (midi)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "Aller au resto toute seule, c'est passer pour une pauvre fille ?",
+    "body": "Resto, expo, montagne : elle a la liste de ce qui lui ferait du bien, mais pas l'envie d'y aller seule. Au fond, une idée bien installée : seule au resto, on passe pour une pauvre fille.",
+    "win": "Elle a bien avancé sur le déménagement de sa cuisine avant le début des travaux.",
+    "tags": [
+      "Solitude & vide",
+      "Image de soi"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-04-17",
+    "jour": "vendredi 17 avril (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "Trois options pour se loger, et aucune qui se détache",
+    "body": "Toujours en colocation avec son ex. Partir et lui demander un loyer, viser un logement social, ou vendre : trois options, aucune qui se détache. Laure lui dit que ce qui manque, ce n'est pas de l'info.",
+    "win": "Elle est partie une semaine en Bretagne sans ses filles, en dépassant la culpabilité.",
+    "tags": [
+      "Argent avec l'ex",
+      "Confiance en soi"
+    ]
+  },
+  {
+    "who": "Anne Cécile",
+    "date": "2026-04-13",
+    "jour": "lundi 13 avril (soir)",
+    "at": "10 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je suis trop vieille pour ça », dit avant même d'avoir essayé",
+    "body": "Dès qu'une activité se présente, la phrase tombe : je suis trop vieille pour ça. Sauf qu'elle n'a même pas essayé. Laure va voir tout ce que cette phrase lui fait rater.",
+    "win": "Elle a annoncé à ses clients qu'elle fermerait le cabinet pour partir au trek, au lieu de trouver une excuse.",
+    "tags": [
+      "Acceptation de soi",
+      "Pression & perfectionnisme"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-04-13",
+    "jour": "lundi 13 avril (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Elle les a bloquées, et elles appellent sa mère",
+    "body": "Elle a bloqué des copines qui la jugeaient, sans rien expliquer. Six mois plus tard, elles appellent sa mère. Derrière, une vieille interdiction : ne pas être une fille à problème.",
+    "win": "Elle a dit oui pour jouer sa pièce de théâtre à Avignon cet été, après dix ans à la repousser.",
+    "tags": [
+      "Ma famille & mes proches",
+      "Poser ses limites",
+      "Dépendance affective"
+    ]
+  },
+  {
+    "who": "Delphine",
+    "date": "2026-04-10",
+    "jour": "vendredi 10 avril (midi)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "Ils rentrent de chez leur père remontés contre elle",
+    "body": "Ses enfants reviennent du mercredi avec des choses entendues sur elle, et elle sent le lien se fragiliser. Elle ne veut ni se défendre, ni les laisser au milieu. Laure part de sa posture.",
+    "win": "Elle a dit non à son ex qui lui demandait la veille d'aller chercher leur fille, sur son temps de garde à lui.",
+    "tags": [
+      "Coparentalité",
+      "Relation avec mes enfants",
+      "Culpabilité"
+    ]
+  },
+  {
+    "who": "Aurélie",
+    "date": "2026-04-10",
+    "jour": "vendredi 10 avril (midi)",
+    "at": "1 h 20",
+    "kind": "Hebdomadaire",
+    "titre": "Elle ne travaille plus, et n'a jamais été aussi débordée",
+    "body": "Une formation, un projet d'entreprise, les enfants, un tiroir de courrier jamais ouvert, une voiture en panne depuis six semaines. Elle n'arrive plus à poser quoi que ce soit dans sa semaine.",
+    "win": "Elle a continué à avancer sur le programme au lieu de tout lâcher, comme elle le fait d'habitude.",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Procrastination"
+    ]
   }
 ]
