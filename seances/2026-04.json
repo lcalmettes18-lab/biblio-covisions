@@ -154,5 +154,107 @@
       "Fatigue & charge mentale",
       "Procrastination"
     ]
+  },
+  {
+    "who": "Anne-Cécile",
+    "date": "2026-04-06",
+    "jour": "lundi 6 avril (soir)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "Je n'ai pas d'amis, et au fond je crois que je n'en aurai jamais",
+    "body": "Sept ans après la séparation, elle n'a plus d'amie proche et elle ne laisse plus personne entrer. Son assistante de douze ans l'a trahie l'an dernier. Laure remonte à la peur qui tient tout ça.",
+    "win": "Elle s'est enfin occupée de son jardin — l'indicateur qu'elle s'était donné en entrant dans le programme.",
+    "tags": [
+      "Solitude & vide",
+      "Dépendance affective",
+      "Refaire ma vie amoureuse"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-04-06",
+    "jour": "lundi 6 avril (soir)",
+    "at": "1 h",
+    "kind": "Hebdomadaire",
+    "titre": "« Je ne suis pas faite pour le couple », c'est ma phrase du moment",
+    "body": "Deux ans difficiles derrière elle, et l'idée de vivre à nouveau avec quelqu'un lui paraît impossible. Elle dit qu'elle ne saurait pas supporter l'autre au quotidien. Laure va chercher ce qu'il y a dessous.",
+    "win": "",
+    "tags": [
+      "Refaire ma vie amoureuse",
+      "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Barbara",
+    "date": "2026-04-03",
+    "jour": "vendredi 3 avril (midi)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "Mon fils de 8 ans a tout géré tout seul, et la carotte y est pour quelque chose",
+    "body": "Un soir, son fils de 8 ans prépare ses affaires, se lave et se couche tout seul. Le lendemain, il est habillé et a pris son petit déj. L'orthophoniste, elle, lui dit que la récompense n'est pas la bonne méthode.",
+    "win": "Son fils de 8 ans bascule dans l'autonomie, le soir et le matin.",
+    "tags": [
+      "Cadre & règles à la maison",
+      "École & scolarité"
+    ]
+  },
+  {
+    "who": "Aurélie",
+    "date": "2026-04-03",
+    "jour": "vendredi 3 avril (midi)",
+    "at": "10 min",
+    "kind": "Hebdomadaire",
+    "titre": "Mon fils de 11 ans a décroché, et je sais que mon cadre est défaillant",
+    "body": "Il a décroché au collège, sort à 15h et vit sa meilleure vie. Une fiche de suivi signée par les profs, et en deux jours il remet tout. Laure décortique avec elle ce qui a marché.",
+    "win": "La fiche de suivi mise en place avec le prof principal : il a tout fait, et il est venu le lui montrer.",
+    "tags": [
+      "École & scolarité",
+      "Cadre & règles à la maison",
+      "Ados"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-04-03",
+    "jour": "vendredi 3 avril (midi)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "Je leur retire le bonus gagné la veille — est-ce que c'est la bonne conséquence ?",
+    "body": "Tableau de responsabilités, 1 € de bonus pour les initiatives. Mardi ça marche, mercredi plus rien, et elle retire le bonus gagné la veille. Laure reprend la logique depuis le début.",
+    "win": "La réunion avec ses filles a tenu, le tableau est en place, et elles ont pris des initiatives sans qu'elle demande.",
+    "tags": [
+      "Cadre & règles à la maison",
+      "Relation avec mes enfants"
+    ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-04-03",
+    "jour": "vendredi 3 avril (midi)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "J'ai obtenu son accord écrit pour changer ma fille de collège",
+    "body": "Sa fille est dans un collège en basque qu'elle ne supporte plus, et le père refusait tout changement. Suzy a obtenu son accord écrit sans passer par le JAF. Elle démonte sa méthode.",
+    "win": "L'accord écrit du père, obtenu avant la deadline qu'elle avait posée.",
+    "tags": [
+      "Communication avec l'ex",
+      "École & scolarité",
+      "Conflit avec l'ex"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-04-03",
+    "jour": "vendredi 3 avril (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "Il m'interdit la maison quand ce n'est pas ma semaine, et aujourd'hui c'est lui qui demande",
+    "body": "Ils occupent la maison familiale une semaine sur deux, loyer partagé moitié-moitié. Lui l'empêche d'y venir hors de sa semaine, et maintenant c'est lui qui demande. Elle hésite entre la rancune et les comptes.",
+    "win": "Un week-end entier seule avec ses trois enfants, et ça s'est très bien passé — elle a osé demander de l'aide autour d'elle.",
+    "tags": [
+      "Logistique & organisation",
+      "Argent avec l'ex",
+      "Communication avec l'ex"
+    ]
   }
 ]
