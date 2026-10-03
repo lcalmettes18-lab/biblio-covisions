@@ -1,5 +1,79 @@
 [
   {
+    "who": "Aurélie",
+    "date": "2026-10-02",
+    "jour": "vendredi 2 octobre (midi)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Il m'a raccroché au nez ce matin »",
+    "body": "Son ex ne prend plus les enfants, ne verse pas de pension, et vient de se trouver une nouvelle excuse. Elle ne sait plus quoi exiger. Laure lui donne le cadre, et le délai.",
+    "win": "A relancé la démarche CAF et rassemblé les pièces pour saisir le JAF elle-même.",
+    "tags": [
+      "Conflit avec l'ex",
+      "Garde & résidence",
+      "Argent avec l'ex"
+    ]
+  },
+  {
+    "who": "Aurélie",
+    "date": "2026-10-02",
+    "jour": "vendredi 2 octobre (midi)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "« La carotte, c'est échec total »",
+    "body": "Argent de poche, carotte, rappels dix fois par jour : rien ne tient avec ses deux ados. Elle est épuisée de devoir mettre le doigt sur chaque petit truc. Laure lui montre où ça coince.",
+    "win": "A tenu une conséquence jusqu'au bout sur le rangement de la maison, malgré sa peur du conflit.",
+    "tags": [
+      "Cadre & règles à la maison",
+      "Ados",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Eva",
+    "date": "2026-10-02",
+    "jour": "vendredi 2 octobre (midi)",
+    "at": "30 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je dois faire opérer ma fille, et je sais pas si c'est la bonne décision »",
+    "body": "Une opération à 15 000 € pour sa fille de 16 ans, et un ex dont la seule phrase est « j'ai pas l'argent ». Elle n'arrive pas à trancher. Laure change la question.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Coparentalité",
+      "Stress & anxiété"
+    ]
+  },
+  {
+    "who": "Sophie",
+    "date": "2026-10-02",
+    "jour": "vendredi 2 octobre (midi)",
+    "at": "1 h",
+    "kind": "Hebdomadaire",
+    "titre": "« Mon mari me manque » — sauf qu'elle ne parle jamais de lui",
+    "body": "Un an après la séparation, son mari lui manque énormément. Sauf qu'en parlant de lui, elle ne parle jamais de lui. Laure lui montre ce qui manque vraiment.",
+    "win": "Vient d'arrêter de fumer.",
+    "tags": [
+      "Tristesse & deuil",
+      "Pro & reconversion",
+      "Confiance en soi"
+    ]
+  },
+  {
+    "who": "Mélodie · Sophie",
+    "date": "2026-10-02",
+    "jour": "vendredi 2 octobre (midi)",
+    "at": "1 h 15",
+    "kind": "Hebdomadaire",
+    "titre": "« J'arrive pas à lâcher le lien » — hypnose à deux sur la peur du vide",
+    "body": "Toutes les deux savent que c'est fini, et aucune n'arrive à couper le lien avec son ex. Panique dès qu'il ne répond plus. Séance d'hypnose à deux sur la peur de lâcher.",
+    "win": "Mélodie a signé sa rupture conventionnelle : elle repart à zéro.",
+    "tags": [
+      "Dépendance affective",
+      "Solitude & vide"
+    ]
+  },
+  {
     "who": "Eva",
     "date": "2026-10-01",
     "jour": "jeudi 1er octobre (midi)",
