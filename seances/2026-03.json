@@ -12,5 +12,180 @@
       "Écrans",
       "Cadre & règles à la maison"
     ]
+  },
+  {
+    "who": "Jérémy",
+    "date": "2026-03-23",
+    "jour": "lundi 23 mars (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "Une partie de lui l'empêche d'aller voir son enfant intérieur",
+    "body": "Il bloque en pleine hypnose. Une partie de lui refuse d'y aller : un homme en costard, autoritaire, qui ressemble beaucoup à son père. Laure lui dit quoi faire de ce type-là.",
+    "win": "",
+    "tags": [
+      "Enfant intérieur",
+      "Ados"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-03-23",
+    "jour": "lundi 23 mars (soir)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "Séparés, toujours sous le même toit : qui paie quoi ?",
+    "body": "Garde alternée, même appartement, une seule voiture. Il lui envoie la facture du plombier, elle lui envoie celle de la courroie de distribution. Marine demande comment on sort de ces guéguerres.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Coparentalité",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Alexia",
+    "date": "2026-03-23",
+    "jour": "lundi 23 mars (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "« J'arrive pas à remplir les cases » : sa Nord Star la bloque",
+    "body": "Dix jours dans le programme et sa Nord Star est toujours vide. Elle se compare à celles des autres, trop belles, trop littéraires. Laure la débloque en trois questions.",
+    "win": "Des repas plus calmes cette semaine",
+    "tags": [
+      "Confiance en soi",
+      "Procrastination"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-03-23",
+    "jour": "lundi 23 mars (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Son ex a dit oui à une soirée chez un copain sans lui demander",
+    "body": "Sa fille est invitée à dormir chez un copain. Le père a déjà dit oui, et c'était sur le temps de garde de Céline. Jusqu'où va l'autorité de chacun ? Laure trace la ligne.",
+    "win": "",
+    "tags": [
+      "Coparentalité",
+      "Communication avec l'ex"
+    ]
+  },
+  {
+    "who": "Barbara",
+    "date": "2026-03-23",
+    "jour": "lundi 23 mars (soir)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "Son fils 12 jours sur 14, le père à Paris : comment compenser ?",
+    "body": "Le père habite Paris, elle a leur fils 12 jours sur 14. C'est elle qui gère tout, même les billets de train. Elle demande si l'absence d'un père peut se compenser.",
+    "win": "Son fils de 8 ans prend son bain tout seul",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Argent avec l'ex",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Delphine",
+    "date": "2026-03-20",
+    "jour": "vendredi 20 mars (midi)",
+    "at": "10 min",
+    "kind": "Hebdomadaire",
+    "titre": "Le père passe par leur fils de 13 ans pour récupérer les soirs de match",
+    "body": "Ligue des Champions un soir d'école, demande la veille, et c'est leur fils de 13 ans qui vient demander. Delphine se retrouve à devoir se justifier chaque fois. Laure lui pose le cadre.",
+    "win": "A tenu une conséquence avec sa fille, sans crise ni larme",
+    "tags": [
+      "Communication avec l'ex",
+      "Poser ses limites",
+      "Ados"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-03-20",
+    "jour": "vendredi 20 mars (midi)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "Elle veut lui écrire pour lui prouver qu'elle est une bonne mère",
+    "body": "Son ex a raconté autour d'eux qu'elle ne s'investissait pas à la maison. Elle veut lui écrire pour rétablir la vérité. Laure lui demande d'abord ce qu'elle attend vraiment de ce mail.",
+    "win": "A trouvé une maison d'étudiants qui pourra garder ses enfants",
+    "tags": [
+      "Communication avec l'ex",
+      "Colère & injustice",
+      "Estime de soi"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-03-20",
+    "jour": "vendredi 20 mars (midi)",
+    "at": "50 min",
+    "kind": "Hebdomadaire",
+    "titre": "Chez le père, ce sont les grands-parents qui gèrent les rendez-vous",
+    "body": "Quand les enfants sont chez leur père, ce sont les grands-parents qui les emmènent aux rendez-vous, et qui contestent ensuite ce que dit le médecin. Marine demande si elle peut s'y opposer.",
+    "win": "",
+    "tags": [
+      "Règles chez l'autre parent",
+      "Ma famille & mes proches"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-03-20",
+    "jour": "vendredi 20 mars (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "Logement social en vue : qui paie les travaux de l'appartement commun ?",
+    "body": "Elle va bientôt déménager, et son ex lui devra un loyer sur l'appartement qu'ils gardent à deux. Lui parle de faire des travaux. Coralie demande qui paie quoi.",
+    "win": "Un recruteur l'a rappelée le soir même de sa candidature",
+    "tags": [
+      "Argent avec l'ex",
+      "Logistique & organisation"
+    ]
+  },
+  {
+    "who": "Anne-Cécile",
+    "date": "2026-03-16",
+    "jour": "lundi 16 mars (soir)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "Le petit bonhomme rouge qui l'empêche de déléguer",
+    "body": "Cinquante onglets ouverts dans la tête, et impossible de lâcher quoi que ce soit : elle a même continué à repasser les chemises de son ex. Laure fait sortir la partie d'elle qui ne supporte pas la lenteur.",
+    "win": "",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Culpabilité",
+      "Colère & injustice"
+    ]
+  },
+  {
+    "who": "Anne-Cécile",
+    "date": "2026-03-16",
+    "jour": "lundi 16 mars (soir)",
+    "at": "50 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je veux pas avoir une vie où je m'ennuie »",
+    "body": "Dix trucs l'attendent dès qu'elle éteint la covision. Sur la plage, au bout d'une demi-heure, elle s'ennuie et repart. Laure lui montre ce qu'il y a derrière cette vie à 400 à l'heure.",
+    "win": "",
+    "tags": [
+      "Solitude & vide",
+      "Dépendance affective",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-03-16",
+    "jour": "lundi 16 mars (soir)",
+    "at": "55 min",
+    "kind": "Hebdomadaire",
+    "titre": "Pendant les devoirs, sa fille lui dit qu'elle n'est pas là",
+    "body": "Quand on lui parle, elle a besoin d'occuper ses mains. Son ex pense qu'elle n'écoute pas, sa fille a quitté la table des devoirs. Coralie se demande si c'est l'anxiété.",
+    "win": "",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Stress & anxiété",
+      "Relation avec mes enfants"
+    ]
   }
 ]
