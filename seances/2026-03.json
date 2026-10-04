@@ -43,20 +43,6 @@
     ]
   },
   {
-    "who": "Alexia",
-    "date": "2026-03-23",
-    "jour": "lundi 23 mars (soir)",
-    "at": "45 min",
-    "kind": "Hebdomadaire",
-    "titre": "« J'arrive pas à remplir les cases » : sa Nord Star la bloque",
-    "body": "Dix jours dans le programme et sa Nord Star est toujours vide. Elle se compare à celles des autres, trop belles, trop littéraires. Laure la débloque en trois questions.",
-    "win": "Des repas plus calmes cette semaine",
-    "tags": [
-      "Confiance en soi",
-      "Procrastination"
-    ]
-  },
-  {
     "who": "Céline",
     "date": "2026-03-23",
     "jour": "lundi 23 mars (soir)",
@@ -68,6 +54,20 @@
     "tags": [
       "Coparentalité",
       "Communication avec l'ex"
+    ]
+  },
+  {
+    "who": "Alexia",
+    "date": "2026-03-23",
+    "jour": "lundi 23 mars (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "« J'arrive pas à remplir les cases » : sa Nord Star la bloque",
+    "body": "Dix jours dans le programme et sa Nord Star est toujours vide. Elle se compare à celles des autres, trop belles, trop littéraires. Laure la débloque en trois questions.",
+    "win": "Des repas plus calmes cette semaine",
+    "tags": [
+      "Confiance en soi",
+      "Procrastination"
     ]
   },
   {
@@ -186,6 +186,179 @@
       "Fatigue & charge mentale",
       "Stress & anxiété",
       "Relation avec mes enfants"
+    ]
+  },
+  {
+    "who": "Anne-Cécile",
+    "date": "2026-03-13",
+    "jour": "vendredi 13 mars (midi)",
+    "at": "10 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je n'arrive pas à écrire ma North Star »",
+    "body": "Première semaine dans le programme et déjà trois pages de brouillon jetées. Il faut que la phrase soit parfaite, alors rien ne sort. Laure lui montre ce que ce blocage dit d'elle.",
+    "win": "Ses filles ont sorti les poubelles toutes seules cette semaine, sans qu'elle demande.",
+    "tags": [
+      "Pression & perfectionnisme",
+      "Procrastination"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-03-13",
+    "jour": "vendredi 13 mars (midi)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Année paire, année impaire, je n'y comprends rien »",
+    "body": "Garde alternée depuis octobre, et déjà un casse-tête : qui a les enfants à Noël l'an prochain ? Elle en a fait une insomnie et envoyé un mail à 2h du matin. Laure remet le calendrier à plat.",
+    "win": "",
+    "tags": [
+      "Garde & résidence",
+      "Logistique & organisation"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-03-13",
+    "jour": "vendredi 13 mars (midi)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Dès qu'elle ferme les yeux, elle voit des araignées »",
+    "body": "Sa fille de 8 ans n'arrive plus à s'endormir depuis qu'elle a vu des araignées. Coralie essaie de lui mettre de belles images à la place, ça ne marche pas. Laure explique pourquoi.",
+    "win": "",
+    "tags": [
+      "Enfant angoissé",
+      "Sommeil des enfants"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-03-13",
+    "jour": "vendredi 13 mars (midi)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Il veut bien garder les filles, mais seulement si je ne suis pas là »",
+    "body": "Vacances de Pâques : son ex accepte de s'occuper des filles à condition qu'elle s'efface. Au chômage, elle n'a pas le budget pour partir. Elle se sent le bec dans l'eau.",
+    "win": "",
+    "tags": [
+      "Coparentalité",
+      "Argent & budget"
+    ]
+  },
+  {
+    "who": "Delphine",
+    "date": "2026-03-13",
+    "jour": "vendredi 13 mars (midi)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Orthodontiste, orthophoniste : c'est toujours elle qui cale tout",
+    "body": "Garde totale à sa demande, et tous les rendez-vous des enfants sur son dos. Elle a demandé de l'aide à son ex : « oui oui », puis plus rien. Elle veut savoir s'il a une obligation.",
+    "win": "Sa fille a assumé les conséquences prévues ensemble, sans discuter.",
+    "tags": [
+      "Coparentalité",
+      "Fatigue & charge mentale",
+      "Logistique & organisation"
+    ]
+  },
+  {
+    "who": "Anne-Cécile",
+    "date": "2026-03-13",
+    "jour": "vendredi 13 mars (midi)",
+    "at": "55 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Ça fait cinq ans que sa chambre n'a pas vu l'aspirateur »",
+    "body": "Sa fille de 15 ans refuse qu'on entre dans sa chambre. Anne-Cécile a lâché l'affaire il y a cinq ans, et aujourd'hui ça lui pèse. Comment rouvrir le sujet sans se battre.",
+    "win": "",
+    "tags": [
+      "Cadre & règles à la maison",
+      "Ados",
+      "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-03-12",
+    "jour": "jeudi 12 mars (soir)",
+    "at": "30 min",
+    "kind": "Enfants-Ados",
+    "titre": "« Dès que je lâche la télécommande, c'est fini »",
+    "body": "Ses filles de 8 et 9 ans n'éteignent pas quand elle le demande. Elle lâche les jours de fatigue, et après elle culpabilise. Julie lui dit quoi faire de cette culpabilité.",
+    "win": "",
+    "tags": [
+      "Écrans",
+      "Culpabilité",
+      "Cadre & règles à la maison"
+    ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-03-12",
+    "jour": "jeudi 12 mars (soir)",
+    "at": "35 min",
+    "kind": "Enfants-Ados",
+    "titre": "Elle veut changer de collège, et tout le monde lui met la pression",
+    "body": "Sa fille de 12 ans a demandé elle-même à changer d'école. Les copines, les profs et son père la poussent dans l'autre sens. Suzy voudrait lui donner des armes.",
+    "win": "",
+    "tags": [
+      "École & scolarité",
+      "Coparentalité"
+    ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-03-12",
+    "jour": "jeudi 12 mars (soir)",
+    "at": "45 min",
+    "kind": "Enfants-Ados",
+    "titre": "« Rien qu'en disant on fait les devoirs, la pression monte »",
+    "body": "Sa fille de 12 ans se bloque dès qu'on se met au travail, et doit en plus lui traduire ses leçons du basque. Suzy a tout essayé, le hamac, le rugby. Julie lui propose autre chose.",
+    "win": "",
+    "tags": [
+      "École & scolarité",
+      "Enfant angoissé"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-03-12",
+    "jour": "jeudi 12 mars (soir)",
+    "at": "1 h 10",
+    "kind": "Enfants-Ados",
+    "titre": "« Est-ce que je dois leur dire la vérité ? »",
+    "body": "Ses enfants ont 3, 5 et 8 ans et ne comprennent pas pourquoi elle ne vient plus dans la maison de campagne. Elle a envie de tout leur dire. Julie lui demande à qui ça ferait du bien.",
+    "win": "",
+    "tags": [
+      "Ma famille & mes proches",
+      "Relation avec mes enfants"
+    ]
+  },
+  {
+    "who": "Barbara",
+    "date": "2026-03-09",
+    "jour": "lundi 9 mars (soir)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "« On m'a dit que j'étais en périménopause, et personne n'en parle »",
+    "body": "Cycles irréguliers, fatigue, brouillard mental, vagues d'angoisse. Barbara vient de mettre un mot dessus et débarque avec ses questions. Laure explique ce qui se passe vraiment dans le corps.",
+    "win": "",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Sommeil & hygiène de vie",
+      "Stress & anxiété"
+    ]
+  },
+  {
+    "who": "Céline G",
+    "date": "2026-03-09",
+    "jour": "lundi 9 mars (soir)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai signé, et maintenant j'ai une page blanche »",
+    "body": "Convention de divorce signée jeudi, deux ans d'attente derrière elle. Et là, le vide : elle se met la pression pour remplir cette page et n'ose pas se lancer. Laure l'emmène à ses 95 ans.",
+    "win": "A refait sa canalisation extérieure toute seule, un truc qu'elle n'avait jamais fait.",
+    "tags": [
+      "Confiance en soi",
+      "Pression & perfectionnisme",
+      "Procrastination"
     ]
   }
 ]
