@@ -360,5 +360,95 @@
       "Pression & perfectionnisme",
       "Procrastination"
     ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-03-06",
+    "jour": "vendredi 6 mars (midi)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Maman, tu m'aimes pas » dès que je pose une limite",
+    "body": "Sa fille lui sort « tu m'aimes pas » à chaque limite, et ajoute que chez papa elle fait ce qu'elle veut. Céline se demande si elle n'en met pas trop. Laure remonte le fil avec elle, question par question.",
+    "win": "",
+    "tags": [
+      "Cadre & règles à la maison",
+      "Règles chez l'autre parent",
+      "Culpabilité"
+    ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-03-06",
+    "jour": "vendredi 6 mars (midi)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Quoi que je demande, ça tombe à l'eau »",
+    "body": "À force de refus, elle n'ose même plus demander quoi que ce soit à son ex. Pendant ce temps le collège tire la sonnette d'alarme et sa fille veut changer d'école. Laure lui donne une stratégie, pas frontale du tout.",
+    "win": "Elle a déjà tout enclenché : le mail du collège, la demande d'écrit à la psy, le dossier dans un autre établissement.",
+    "tags": [
+      "Conflit avec l'ex",
+      "École & scolarité",
+      "Mon enfant atypique"
+    ]
+  },
+  {
+    "who": "Delphine",
+    "date": "2026-03-06",
+    "jour": "vendredi 6 mars (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "Je ne panique pas, mais plus rien n'a de saveur",
+    "body": "Quand les enfants ne sont pas là, plus aucun élan. Pas de panique, juste du vide, et des soirées entre amis qu'elle annule. Elle demande si c'est une étape normale ou si c'est inquiétant.",
+    "win": "",
+    "tags": [
+      "Solitude & vide",
+      "Tristesse & deuil",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-03-06",
+    "jour": "vendredi 6 mars (midi)",
+    "at": "1 h 20",
+    "kind": "Hebdomadaire",
+    "titre": "« Mère seule avec trois enfants, on n'en veut pas »",
+    "body": "Les refus s'enchaînent : mère seule, trois enfants, c'est trop petit. Son ex l'a fait venir à l'autre bout de la France et ne lève pas le petit doigt. Sans logement, la garde alternée tombe.",
+    "win": "",
+    "tags": [
+      "Conflit avec l'ex",
+      "Garde & résidence",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Barbara",
+    "date": "2026-03-02",
+    "jour": "lundi 2 mars (soir)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "Mon fils n'était pas dans le train, j'ai cru que mon cœur s'arrêtait",
+    "body": "Son fils n'est pas descendu du TGV, elle a cru qu'elle faisait un malaise. En fait elle avait réservé le train suivant. Plus de relais, plus de plan B, et une seule question : comment j'arrête de courir ?",
+    "win": "",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Stress & anxiété",
+      "Ma famille & mes proches"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-03-02",
+    "jour": "lundi 2 mars (soir)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "Mes ados se couchent à pas d'heure et se lèvent à midi",
+    "body": "17 et 14 ans, coucher décalé, lever à midi, et la télé qui tourne la nuit juste derrière sa cloison. Elle veut leur faire comprendre que le sommeil compte. Laure déplace la question ailleurs.",
+    "win": "",
+    "tags": [
+      "Sommeil des enfants",
+      "Ados",
+      "Cadre & règles à la maison"
+    ]
   }
 ]
