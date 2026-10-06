@@ -58,5 +58,179 @@
       "Confiance en soi",
       "Argent & budget"
     ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-02-20",
+    "jour": "vendredi 20 février (midi)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "Mon ex me propose de venir à l'anniversaire de notre fils. J'y vais ?",
+    "body": "Séparée depuis quelques mois. Son ex l'invite à l'anniversaire du petit, et elle a peur de mal le vivre. Laure répond sans détour, dès la première minute.",
+    "win": "Son premier conseil de famille : chacune a dit ses victoires, et le lendemain matin, lit fait et couvert mis sans qu'elle demande rien.",
+    "tags": [
+      "Coparentalité",
+      "Conflit avec l'ex",
+      "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-02-20",
+    "jour": "vendredi 20 février (midi)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "J'arrive pas à ne pas détester ma belle-famille, et ça m'épuise",
+    "body": "Elle leur parle toute seule dans sa tête, elle les insulte, et ça la vide. Elle voudrait leur pardonner pour avoir la paix. Laure déplace complètement la question.",
+    "win": "",
+    "tags": [
+      "Colère & injustice",
+      "Ma famille & mes proches"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-02-20",
+    "jour": "vendredi 20 février (midi)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "Mes deux grands sont dys et TDAH, et l'école n'est pas faite pour eux",
+    "body": "Son fils a changé d'établissement je ne sais combien de fois. Sa fille a raté son CAP parce que les aménagements n'ont pas été respectés. Laure parle orientation.",
+    "win": "",
+    "tags": [
+      "Mon enfant atypique",
+      "École & scolarité"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-02-20",
+    "jour": "vendredi 20 février (midi)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Mon boulot n'est pas adapté, et je crois qu'il faut que je parte",
+    "body": "Les consignes par message qu'elle ne comprend pas, les prénoms qu'elle ne retient pas, l'activité qu'elle ne sait pas refaire le lendemain. Cap emploi parle de démission.",
+    "win": "Elle a attaqué la peinture de sa chambre, toute seule, juste pour elle.",
+    "tags": [
+      "Pro & reconversion",
+      "Confiance en soi"
+    ]
+  },
+  {
+    "who": "Caroline",
+    "date": "2026-02-16",
+    "jour": "lundi 16 février (soir)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "Ma fille de 5 ans ne veut ni finir son repas, ni dormir dans son lit, ni se lever",
+    "body": "Séparation il y a un an, et depuis tout coince au coucher et au lever. Elle a trouvé des bricolages qui marchent mais dont elle n'est pas fière. Laure lui dit où ça bloque.",
+    "win": "",
+    "tags": [
+      "Sommeil des enfants",
+      "Cadre & règles à la maison",
+      "Enfant angoissé"
+    ]
+  },
+  {
+    "who": "Delphine",
+    "date": "2026-02-16",
+    "jour": "lundi 16 février (soir)",
+    "at": "30 min",
+    "kind": "Hebdomadaire",
+    "titre": "Comment être sûre que je suis un parent nourricier et pas l'inverse ?",
+    "body": "Elle découvre l'enfant intérieur dans le module 1 et ça la renvoie à ses propres enfants. Comment les aider face à un père manipulateur sans leur coller son vécu à elle ?",
+    "win": "",
+    "tags": [
+      "Relation avec mes enfants",
+      "Enfant intérieur",
+      "Coparentalité"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-02-16",
+    "jour": "lundi 16 février (soir)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "Quand ils ont vraiment dépassé les bornes et que je sors de mes gonds",
+    "body": "Deux situations dans la semaine où elle a crié très fort. En retour : « de toute façon tu cries toujours ». Et derrière, la culpabilité de s'excuser après coup.",
+    "win": "Sa fille a dormi toutes les nuits dans sa chambre la semaine dernière, depuis qu'elle a tenu la fermeté.",
+    "tags": [
+      "Colère & injustice",
+      "Culpabilité",
+      "Cadre & règles à la maison"
+    ]
+  },
+  {
+    "who": "Aurélie",
+    "date": "2026-02-16",
+    "jour": "lundi 16 février (soir)",
+    "at": "55 min",
+    "kind": "Hebdomadaire",
+    "titre": "Mon fils de 11 ans, les écrans partout, et je n'ai plus de conséquence à poser",
+    "body": "Avant c'était simple : la télé à telle heure et c'est tout. Aujourd'hui il y a des écrans partout, il a cassé son téléphone, et elle ne sait plus quoi poser.",
+    "win": "",
+    "tags": [
+      "Écrans",
+      "Cadre & règles à la maison"
+    ]
+  },
+  {
+    "who": "Barbara",
+    "date": "2026-02-13",
+    "jour": "vendredi 13 février (midi)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "Comment on arrête de répéter 10 fois la même chose ?",
+    "body": "Son fils va avoir 8 ans, et on lui a dit : tu es beaucoup trop patiente, tu répètes 12 000 fois. Décembre l'a épuisée. Laure explique ce que l'enfant a compris du jeu.",
+    "win": "",
+    "tags": [
+      "Cadre & règles à la maison",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Delphine",
+    "date": "2026-02-13",
+    "jour": "vendredi 13 février (midi)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Elle refuse la douche, et les grands-parents sont venus exprès pour la galette",
+    "body": "Elle avait posé sa conséquence : pas de douche, pas de galette. Sauf que ses parents étaient venus exprès, et elle s'est sentie coincée. À qui appartient le problème ?",
+    "win": "",
+    "tags": [
+      "Cadre & règles à la maison",
+      "Culpabilité",
+      "Ma famille & mes proches"
+    ]
+  },
+  {
+    "who": "Delphine",
+    "date": "2026-02-13",
+    "jour": "vendredi 13 février (midi)",
+    "at": "50 min",
+    "kind": "Hebdomadaire",
+    "titre": "Comment rester calme quand je rentre et qu'ils se disputent déjà ?",
+    "body": "Qui monte le premier dans la voiture, qui prend sa douche, qui a le chat le soir. Elle arbitre tout en rentrant, et cède souvent à celui qui crie le moins. Laure lui retire un rôle.",
+    "win": "",
+    "tags": [
+      "Relation avec mes enfants",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-02-13",
+    "jour": "vendredi 13 février (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "Comment lâcher prise quand chez le père c'est toujours mal fait ?",
+    "body": "Sa fille revient mal habillée, et le manteau sent la cigarette. Elle rachète, elle relave, ça l'énerve. Laure passe par ses valeurs, puis pose une question plus directe.",
+    "win": "Sa petite fait ses nuits dans son lit depuis trois jours, depuis qu'elle a réorganisé les chambres.",
+    "tags": [
+      "Règles chez l'autre parent",
+      "Colère & injustice",
+      "Fatigue & charge mentale"
+    ]
   }
 ]
