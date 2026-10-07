@@ -232,5 +232,164 @@
       "Colère & injustice",
       "Fatigue & charge mentale"
     ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-02-11",
+    "jour": "mercredi 11 février (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "Elle croise son ex dans l'escalier et s'effondre : c'est lui qui lui manque ?",
+    "body": "Elle l'a croisé par hasard dans l'escalier ce matin et elle s'est effondrée. Elle s'est dit qu'elle l'aimait encore. Et demain, médiation : on parle des enfants, ou de nous aussi ?",
+    "win": "Elle arrive en médiation avec sa charte de coparentalité à faire signer.",
+    "tags": [
+      "Tristesse & deuil",
+      "Coparentalité",
+      "Garde & résidence"
+    ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-02-11",
+    "jour": "mercredi 11 février (soir)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Ce sont les larmes qui sortent, jamais la colère »",
+    "body": "Sa colère ne sort jamais, ce sont les larmes qui viennent à la place. Elle veut apprendre à l'exprimer sans faire peur à sa fille. Laure remonte à la croyance qui la bloque depuis l'enfance.",
+    "win": "Elle a réussi à poser une limite la semaine dernière, et ça a marché.",
+    "tags": [
+      "Colère & injustice",
+      "Poser ses limites",
+      "Techniques de communication"
+    ]
+  },
+  {
+    "who": "Caroline",
+    "date": "2026-02-10",
+    "jour": "mardi 10 février (midi)",
+    "at": "le début",
+    "kind": "Juridique",
+    "titre": "Il rachète ses parts, mais le montant change à chaque rendez-vous",
+    "body": "Son ex rachète ses parts de l'appartement, sauf qu'entre les frais de notaire et le taux du prêt, le montant bouge à chaque fois. Et il a décidé seul de lui verser 100 € de pension par mois.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-02-10",
+    "jour": "mardi 10 février (midi)",
+    "at": "15 min",
+    "kind": "Juridique",
+    "titre": "Le collège qu'elle n'a pas choisi lui coûte son travail",
+    "body": "Sa fille est dans un collège hors zone, sans bus. Elle va la chercher tous les soirs, impossible de retrouver du travail. Le père a imposé ce collège. Faut-il saisir le juge ?",
+    "win": "",
+    "tags": [
+      "École & scolarité",
+      "Garde & résidence",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-02-10",
+    "jour": "mardi 10 février (midi)",
+    "at": "40 min",
+    "kind": "Juridique",
+    "titre": "Elle a tout quitté pour le suivre, elle repart avec 9 500 €",
+    "body": "Elle a vendu son appartement et quitté Paris pour le suivre au Pays basque. Lui est presque millionnaire, elle repart avec 9 500 €. Elle veut la paix et le maximum. Les deux, c'est possible ?",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Alexandra",
+    "date": "2026-02-10",
+    "jour": "mardi 10 février (midi)",
+    "at": "55 min",
+    "kind": "Juridique",
+    "titre": "Rentrer dans le Sud, au risque de perdre la garde",
+    "body": "Séparée depuis septembre, isolée près de Versailles, toute sa famille est dans le Var. Elle veut rentrer. Son avocate la prévient qu'elle joue la garde de ses enfants. Le risque est-il réel ?",
+    "win": "",
+    "tags": [
+      "Garde & résidence",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-02-10",
+    "jour": "mardi 10 février (midi)",
+    "at": "1 h 05",
+    "kind": "Juridique",
+    "titre": "« Avec ta fille, moi je n'ai aucun problème »",
+    "body": "Son ex lui répète que tout se passe mieux chez lui avec leur fille de 5 ans. Il a déjà éloigné son aînée de sa mère. Elle n'ose plus poser de limites. Et la pension de 50 €, jamais versée.",
+    "win": "",
+    "tags": [
+      "Garde & résidence",
+      "Conflit avec l'ex",
+      "Argent avec l'ex"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-02-10",
+    "jour": "mardi 10 février (midi)",
+    "at": "1 h 15",
+    "kind": "Juridique",
+    "titre": "Lettre de licenciement le lendemain du premier rendez-vous de médiation",
+    "body": "Premier rendez-vous de médiation en juillet, lettre de licenciement le lendemain. Elle se demande si ça vaut encore le coup d'y retourner. Et elle a peur qu'il mette le médiateur dans sa poche.",
+    "win": "",
+    "tags": [
+      "Procédure & audience",
+      "Conflit avec l'ex"
+    ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-02-09",
+    "jour": "lundi 9 février (soir)",
+    "at": "50 min",
+    "kind": "Hebdomadaire",
+    "titre": "Sa fille dit oui au déménagement, et là elle panique",
+    "body": "Elle voulait quitter le Pays basque pour se rapprocher de sa famille. Sa fille a dit oui. Et depuis, elle freine, elle doute, elle lui dit que ce ne sera peut-être pas si bien là-bas.",
+    "win": "",
+    "tags": [
+      "Confiance en soi",
+      "Stress & anxiété",
+      "Ma famille & mes proches"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-02-09",
+    "jour": "lundi 9 février (soir)",
+    "at": "1 h 40",
+    "kind": "Hebdomadaire",
+    "titre": "Elle pète les plombs à 8h du matin",
+    "body": "Réveillée à 3h, puis à 6h, trois petits à chausser pour la patinoire. À 8h30 elle était déjà à bout. Elle croit qu'elle gère mal ses nerfs. Laure lui montre que le problème est ailleurs.",
+    "win": "",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Relation avec mes enfants"
+    ]
+  },
+  {
+    "who": "Caroline",
+    "date": "2026-02-09",
+    "jour": "lundi 9 février (soir)",
+    "at": "1 h 55",
+    "kind": "Hebdomadaire",
+    "titre": "Quatre dégâts des eaux, sa fille au milieu, et personne à appeler",
+    "body": "Pas de famille autour, des amis qu'elle n'ose pas déranger, et un ex qu'elle finit toujours par appeler. Elle veut se construire un filet de sécurité. Sauf que demander de l'aide, elle ne sait pas.",
+    "win": "Elle a posté sur le groupe des parents solo de sa ville, et on lui a déjà proposé de se retrouver.",
+    "tags": [
+      "Confiance en soi",
+      "Solitude & vide"
+    ]
   }
 ]
