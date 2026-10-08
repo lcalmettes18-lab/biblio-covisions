@@ -391,5 +391,49 @@
       "Confiance en soi",
       "Solitude & vide"
     ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-02-04",
+    "jour": "mercredi 4 février (soir)",
+    "at": "10 min",
+    "kind": "Hebdomadaire",
+    "titre": "Fruits le matin, laitages, flocons d'avoine : qu'est-ce qui passe ?",
+    "body": "Coralie attaque le module régime. Fruits le matin, laitages, flocons d'avoine, elle ne sait plus ce qui est permis. Laure reprend la règle de base, et pourquoi ça change tout sur l'énergie.",
+    "win": "",
+    "tags": [
+      "Poids & nourriture",
+      "Sommeil & hygiène de vie"
+    ]
+  },
+  {
+    "who": "Elodie",
+    "date": "2026-02-04",
+    "jour": "mercredi 4 février (soir)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "Comment on arrête de se suradapter ?",
+    "body": "Elodie dit oui à tout, pour éviter le conflit, pour ne pas décevoir. Elle est restée 20 ans comme ça. Laure remonte le fil jusqu'à la vraie peur qui est dessous.",
+    "win": "",
+    "tags": [
+      "Poser ses limites",
+      "Dépendance affective",
+      "Confiance en soi"
+    ]
+  },
+  {
+    "who": "Julie",
+    "date": "2026-02-04",
+    "jour": "mercredi 4 février (soir)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "« C'est lui qui a merdé, et c'est moi qui culpabilise »",
+    "body": "Son ex ne bouge pas d'un cil pour les études de leur fille, elle fait tout, elle enrage. Et derrière la colère, l'étiquette de femme forte qu'elle n'arrive pas à décoller. Laure prend les deux.",
+    "win": "",
+    "tags": [
+      "Colère & injustice",
+      "Coparentalité",
+      "Culpabilité"
+    ]
   }
 ]
