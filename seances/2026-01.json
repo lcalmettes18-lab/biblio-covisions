@@ -1,0 +1,92 @@
+[
+  {
+    "who": "Marine",
+    "date": "2026-01-30",
+    "jour": "vendredi 30 janvier (midi)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je me sens conne de l'avoir suivi »",
+    "body": "Elle a suivi son ex à l'autre bout de la France, et aujourd'hui il lui envoie des annonces d'appart minables. Elle répond à chaud, en menaçant. Laure va chercher à qui elle en veut vraiment.",
+    "win": "A réservé une thalasso et un hôtel pour se mettre au repos le soir même",
+    "tags": [
+      "Colère & injustice",
+      "Culpabilité",
+      "Communication avec l'ex"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-01-30",
+    "jour": "vendredi 30 janvier (midi)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Elle apprend par ses filles que son ex a quelqu'un",
+    "body": "Ses filles lui apprennent que leur père a quelqu'un, et qu'il lui ment. Ce qui la touche, ce n'est pas la femme, c'est le secret que ses filles portent. Laure cherche le vrai problème, il est ailleurs.",
+    "win": "",
+    "tags": [
+      "Coparentalité",
+      "Communication avec l'ex",
+      "Colère & injustice"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-01-30",
+    "jour": "vendredi 30 janvier (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "« Lui il a avancé, et moi j'ai du mal »",
+    "body": "La vie de son ex a l'air plus cool que la sienne, et ça la ronge. Elle n'a pas choisi cette séparation, lui oui. Laure lui pose une question qu'elle n'attendait pas.",
+    "win": "",
+    "tags": [
+      "Colère & injustice",
+      "Tristesse & deuil",
+      "Estime de soi"
+    ]
+  },
+  {
+    "who": "Alexandra",
+    "date": "2026-01-28",
+    "jour": "mercredi 28 janvier (soir)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je me sens inférieure à lui »",
+    "body": "Son ex la dénigre depuis des années, et elle a fini par le croire. Elle veut lui prouver qu'elle vaut mieux que ça, tableaux Excel compris. Laure lui montre où elle se place, et où il se place.",
+    "win": "Décide d'arrêter de chercher à se défendre et à lui prouver sa valeur",
+    "tags": [
+      "Conflit avec l'ex",
+      "Estime de soi",
+      "Communication avec l'ex"
+    ]
+  },
+  {
+    "who": "Julie",
+    "date": "2026-01-28",
+    "jour": "mercredi 28 janvier (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Lui c'est le gentil, elle c'est celle qui n'avance pas",
+    "body": "Son ex est parti, et pourtant c'est elle qui passe pour celle qui ne tourne pas la page. Il veut rester ami, il veut qu'elle aille bien. Laure répond sur le droit qu'elle ne s'autorise pas.",
+    "win": "",
+    "tags": [
+      "Culpabilité",
+      "Poser ses limites",
+      "Tristesse & deuil"
+    ]
+  },
+  {
+    "who": "Suzie",
+    "date": "2026-01-28",
+    "jour": "mercredi 28 janvier (soir)",
+    "at": "1 h",
+    "kind": "Hebdomadaire",
+    "titre": "Le père ne fait rien, et elle ne peut rien y faire",
+    "body": "Garde alternée, mais c'est elle qui gère les soins, l'école, tout. Il refuse tout ce qu'elle demande, et c'est sa fille qui paie. Laure ne la ménage pas sur ce qu'il va falloir accepter.",
+    "win": "",
+    "tags": [
+      "Colère & injustice",
+      "Coparentalité",
+      "Procédure & audience"
+    ]
+  }
+]
