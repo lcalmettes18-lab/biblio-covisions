@@ -88,5 +88,109 @@
       "Coparentalité",
       "Procédure & audience"
     ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-01-23",
+    "jour": "vendredi 23 janvier (midi)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Si j'arrive pas à remplir le formulaire, c'est que je suis nulle »",
+    "body": "Une semaine dans le programme et déjà le formulaire la bloque. Si elle n'arrive pas à le remplir, c'est qu'elle est nulle. Laure va chercher où ça se joue dans son corps.",
+    "win": "",
+    "tags": [
+      "Confiance en soi",
+      "Estime de soi",
+      "Pression & perfectionnisme"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-01-23",
+    "jour": "vendredi 23 janvier (midi)",
+    "at": "1 h 10",
+    "kind": "Hebdomadaire",
+    "titre": "Bain d'une heure, devoirs pas faits : le soir qui déraille",
+    "body": "Ses deux filles de 8 et 9 ans dorment dans le même lit et se surexcitent. Bain d'une heure, devoirs jamais faits, coucher qui traîne. Et le père, encore à la maison, défait le cadre.",
+    "win": "A osé poser sa question devant une trentaine de personnes à une réunion France Travail.",
+    "tags": [
+      "Sommeil des enfants",
+      "Cadre & règles à la maison",
+      "Écrans"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-01-21",
+    "jour": "mercredi 21 janvier (soir)",
+    "at": "20 min",
+    "kind": "Hebdomadaire",
+    "titre": "La cantine et le centre aéré, c'est dans la pension ou en plus ?",
+    "body": "Elle n'a encore rien fixé avec son ex. Cantine, centre aéré, activités : est-ce compris dans la pension alimentaire ou en plus ? Et s'il n'a aucun revenu pour l'instant ?",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-01-21",
+    "jour": "mercredi 21 janvier (soir)",
+    "at": "30 min",
+    "kind": "Hebdomadaire",
+    "titre": "Le médecin lui propose un arrêt tout de suite, elle hésite",
+    "body": "Le médecin lui annonce les signes avant-coureurs du burnout et lui propose un arrêt tout de suite. Elle a un séminaire à Paris la semaine prochaine, trois enfants, un déménagement.",
+    "win": "A décidé d'aller chercher son arrêt dès le lendemain matin, au lieu d'attendre.",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Poser ses limites",
+      "Sommeil & hygiène de vie"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-01-14",
+    "jour": "mercredi 14 janvier (soir)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "Parcoursup, le code, le stage : elle porte tout, et lui rien",
+    "body": "Parcoursup, le code, le logement du stage, le stage de 3e : elle porte tout. Son ex ne s'en soucie pas, comme avant. Elle voudrait du 50-50 et ne sait pas comment le lui faire entendre.",
+    "win": "",
+    "tags": [
+      "Coparentalité",
+      "Communication avec l'ex",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-01-14",
+    "jour": "mercredi 14 janvier (soir)",
+    "at": "1 h 10",
+    "kind": "Hebdomadaire",
+    "titre": "Elle veut tout cadrer d'un coup : les devoirs, les soirs, sa to-do",
+    "body": "Les devoirs du lundi soir impossibles, les filles très présentes, une to-do qui part dans tous les sens. Elle veut tout cadrer en même temps. Laure la ralentit.",
+    "win": "A réorganisé les devoirs sur le week-end pour alléger le lundi soir.",
+    "tags": [
+      "Logistique & organisation",
+      "Procrastination",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Julie",
+    "date": "2026-01-14",
+    "jour": "mercredi 14 janvier (soir)",
+    "at": "1 h 20",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai zéro minute de pause, et si je fais rien je culpabilise »",
+    "body": "Deux boulots, un déménagement, des travaux, les filles : des marathons tous les jours, zéro pause. Et dès qu'elle ne fait rien, elle culpabilise.",
+    "win": "A envoyé à son ex un message factuel sur le financement des études, et il a fini par dire qu'il allait s'en occuper.",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Solitude & vide",
+      "Culpabilité"
+    ]
   }
 ]
