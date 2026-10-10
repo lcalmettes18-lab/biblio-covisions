@@ -21,12 +21,294 @@
     "at": "45 min",
     "kind": "Hebdomadaire",
     "titre": "Elle apprend par ses filles que son ex a quelqu'un",
-    "body": "Ses filles lui apprennent que leur père a quelqu'un, et qu'il lui mente. Ce qui la touche, ce n'est pas la femme, c'est le secret que ses filles portent. Laure cherche le vrai problème, il est ailleurs.",
+    "body": "Ses filles lui apprennent que leur père a quelqu'un, et qu'il lui ment. Ce qui la touche, ce n'est pas la femme, c'est le secret que ses filles portent. Laure cherche le vrai problème, il est ailleurs.",
     "win": "",
     "tags": [
       "Coparentalité",
       "Communication avec l'ex",
       "Colère & injustice"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-01-30",
+    "jour": "vendredi 30 janvier (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "« Lui il a avancé, et moi j'ai du mal »",
+    "body": "La vie de son ex a l'air plus cool que la sienne, et ça la ronge. Elle n'a pas choisi cette séparation, lui oui. Laure lui pose une question qu'elle n'attendait pas.",
+    "win": "",
+    "tags": [
+      "Colère & injustice",
+      "Tristesse & deuil",
+      "Estime de soi"
+    ]
+  },
+  {
+    "who": "Alexandra",
+    "date": "2026-01-28",
+    "jour": "mercredi 28 janvier (soir)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je me sens inférieure à lui »",
+    "body": "Son ex la dénigre depuis des années, et elle a fini par le croire. Elle veut lui prouver qu'elle vaut mieux que ça, tableaux Excel compris. Laure lui montre où elle se place, et où il se place.",
+    "win": "Décide d'arrêter de chercher à se défendre et à lui prouver sa valeur",
+    "tags": [
+      "Conflit avec l'ex",
+      "Estime de soi",
+      "Communication avec l'ex"
+    ]
+  },
+  {
+    "who": "Julie",
+    "date": "2026-01-28",
+    "jour": "mercredi 28 janvier (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Lui c'est le gentil, elle c'est celle qui n'avance pas",
+    "body": "Son ex est parti, et pourtant c'est elle qui passe pour celle qui ne tourne pas la page. Il veut rester ami, il veut qu'elle aille bien. Laure répond sur le droit qu'elle ne s'autorise pas.",
+    "win": "",
+    "tags": [
+      "Culpabilité",
+      "Poser ses limites",
+      "Tristesse & deuil"
+    ]
+  },
+  {
+    "who": "Suzie",
+    "date": "2026-01-28",
+    "jour": "mercredi 28 janvier (soir)",
+    "at": "1 h",
+    "kind": "Hebdomadaire",
+    "titre": "Le père ne fait rien, et elle ne peut rien y faire",
+    "body": "Garde alternée, mais c'est elle qui gère les soins, l'école, tout. Il refuse tout ce qu'elle demande, et c'est sa fille qui paie. Laure ne la ménage pas sur ce qu'il va falloir accepter.",
+    "win": "",
+    "tags": [
+      "Colère & injustice",
+      "Coparentalité",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-01-23",
+    "jour": "vendredi 23 janvier (midi)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Si j'arrive pas à remplir le formulaire, c'est que je suis nulle »",
+    "body": "Une semaine dans le programme et déjà le formulaire la bloque. Si elle n'arrive pas à le remplir, c'est qu'elle est nulle. Laure va chercher où ça se joue dans son corps.",
+    "win": "",
+    "tags": [
+      "Confiance en soi",
+      "Estime de soi",
+      "Pression & perfectionnisme"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-01-23",
+    "jour": "vendredi 23 janvier (midi)",
+    "at": "1 h 10",
+    "kind": "Hebdomadaire",
+    "titre": "Bain d'une heure, devoirs pas faits : le soir qui déraille",
+    "body": "Ses deux filles de 8 et 9 ans dorment dans le même lit et se surexcitent. Bain d'une heure, devoirs jamais faits, coucher qui traîne. Et le père, encore à la maison, défait le cadre.",
+    "win": "A osé poser sa question devant une trentaine de personnes à une réunion France Travail.",
+    "tags": [
+      "Sommeil des enfants",
+      "Cadre & règles à la maison",
+      "Écrans"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-01-21",
+    "jour": "mercredi 21 janvier (soir)",
+    "at": "20 min",
+    "kind": "Hebdomadaire",
+    "titre": "La cantine et le centre aéré, c'est dans la pension ou en plus ?",
+    "body": "Elle n'a encore rien fixé avec son ex. Cantine, centre aéré, activités : est-ce compris dans la pension alimentaire ou en plus ? Et s'il n'a aucun revenu pour l'instant ?",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-01-21",
+    "jour": "mercredi 21 janvier (soir)",
+    "at": "30 min",
+    "kind": "Hebdomadaire",
+    "titre": "Le médecin lui propose un arrêt tout de suite, elle hésite",
+    "body": "Le médecin lui annonce les signes avant-coureurs du burnout et lui propose un arrêt tout de suite. Elle a un séminaire à Paris la semaine prochaine, trois enfants, un déménagement.",
+    "win": "A décidé d'aller chercher son arrêt dès le lendemain matin, au lieu d'attendre.",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Poser ses limites",
+      "Sommeil & hygiène de vie"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-01-14",
+    "jour": "mercredi 14 janvier (soir)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "Parcoursup, le code, le stage : elle porte tout, et lui rien",
+    "body": "Parcoursup, le code, le logement du stage, le stage de 3e : elle porte tout. Son ex ne s'en soucie pas, comme avant. Elle voudrait du 50-50 et ne sait pas comment le lui faire entendre.",
+    "win": "",
+    "tags": [
+      "Coparentalité",
+      "Communication avec l'ex",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-01-14",
+    "jour": "mercredi 14 janvier (soir)",
+    "at": "1 h 10",
+    "kind": "Hebdomadaire",
+    "titre": "Elle veut tout cadrer d'un coup : les devoirs, les soirs, sa to-do",
+    "body": "Les devoirs du lundi soir impossibles, les filles très présentes, une to-do qui part dans tous les sens. Elle veut tout cadrer en même temps. Laure la ralentit.",
+    "win": "A réorganisé les devoirs sur le week-end pour alléger le lundi soir.",
+    "tags": [
+      "Logistique & organisation",
+      "Procrastination",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Julie",
+    "date": "2026-01-14",
+    "jour": "mercredi 14 janvier (soir)",
+    "at": "1 h 20",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai zéro minute de pause, et si je fais rien je culpabilise »",
+    "body": "Deux boulots, un déménagement, des travaux, les filles : des marathons tous les jours, zéro pause. Et dès qu'elle ne fait rien, elle culpabilise.",
+    "win": "A envoyé à son ex un message factuel sur le financement des études, et il a fini par dire qu'il allait s'en occuper.",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Solitude & vide",
+      "Culpabilité"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-01-09",
+    "jour": "vendredi 9 janvier (midi)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Avec leur père elles rangent, avec moi elles n'écoutent rien »",
+    "body": "Ses deux filles de 7 et 9 ans. Elle vit encore sous le même toit que leur père : dès qu'elle rentre, elles sont surexcitées et ne l'écoutent plus. Avec lui, ça se passe mieux. Laure explique pourquoi.",
+    "win": "Elle a pris du temps pour elle ce matin, en faisant un don de plasma.",
+    "tags": [
+      "Cadre & règles à la maison",
+      "Relation avec mes enfants",
+      "Colère & injustice"
+    ]
+  },
+  {
+    "who": "Julie",
+    "date": "2026-01-07",
+    "jour": "mercredi 7 janvier (soir)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Il m'a quittée pour une autre, et sa famille m'a effacée »",
+    "body": "Quittée pour une autre après 30 ans. Elle rumine la nuit, elle veut se détacher de lui sans lui pardonner, et elle a peur de finir seule. Laure reprend sa question point par point.",
+    "win": "",
+    "tags": [
+      "Tristesse & deuil",
+      "Enfant intérieur",
+      "Ma famille & mes proches"
+    ]
+  },
+  {
+    "who": "Céline S",
+    "date": "2026-01-07",
+    "jour": "mercredi 7 janvier (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Quand ma fille n'est pas là, je ne sais pas quoi faire de moi »",
+    "body": "Bientôt 40 ans, et elle vient de réaliser qu'elle ne sait plus s'occuper quand ses enfants ne sont pas là. Son copain part et revient. Laure lui dit ce qu'il y a vraiment derrière cette peur.",
+    "win": "Elle a décroché des immersions professionnelles pour sa reconversion, son contrat change en février.",
+    "tags": [
+      "Solitude & vide",
+      "Dépendance affective"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-01-07",
+    "jour": "mercredi 7 janvier (soir)",
+    "at": "1 h",
+    "kind": "Hebdomadaire",
+    "titre": "« Le ménage, je crois que je le faisais surtout pour lui »",
+    "body": "Encore sous le même toit que son ex, très maniaque. Elle n'arrive plus à se motiver pour le ménage et le quotidien, et elle cherche d'où ça vient. Le groupe et Laure l'éclairent.",
+    "win": "Sa grande a pris conscience de certaines choses : elle débarrasse plus souvent et l'aide sans qu'on lui demande.",
+    "tags": [
+      "Procrastination",
+      "Cadre & règles à la maison",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Céline G",
+    "date": "2026-01-02",
+    "jour": "vendredi 2 janvier (midi)",
+    "at": "10 min",
+    "kind": "Hebdomadaire",
+    "titre": "« La jalousie revient dès qu'on me parle de sa nouvelle copine »",
+    "body": "Son ex a quelqu'un. La jalousie revient par vagues, et ce qu'elle sent dessous, c'est de la tristesse. Elle demande quel exercice utiliser pour ça. Laure l'oriente ailleurs.",
+    "win": "Elle a traversé les fêtes sans ses enfants le 25 décembre, et elle y a même trouvé du plaisir.",
+    "tags": [
+      "Tristesse & deuil",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Caroline",
+    "date": "2026-01-02",
+    "jour": "vendredi 2 janvier (midi)",
+    "at": "20 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Ma fille ne parle que d'elle, et moi je me sens remplacée »",
+    "body": "Son ex a une nouvelle compagne. Sa fille de 5 ans rentre en ne parlant que d'elle, et elle se dit qu'elle n'est plus légitime. Laure va voir ce qui se joue derrière la jalousie.",
+    "win": "Elle s'est inscrite à la boxe, premier cours lundi.",
+    "tags": [
+      "Estime de soi",
+      "Image de soi",
+      "Colère & injustice"
+    ]
+  },
+  {
+    "who": "Julie",
+    "date": "2026-01-02",
+    "jour": "vendredi 2 janvier (midi)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je lui parle de sa fille, il ramène tout à lui »",
+    "body": "Leur fille entre en école d'ostéo l'an prochain, 10 000 € l'année. À chaque message, il répond qu'il n'a pas d'argent et qu'il n'est qu'un porte-monnaie. Laure lui donne la méthode.",
+    "win": "",
+    "tags": [
+      "Communication avec l'ex",
+      "Argent avec l'ex",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Coralie",
+    "date": "2026-01-02",
+    "jour": "vendredi 2 janvier (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "« Je pose un cadre, et il le défait dans la pièce d'à côté »",
+    "body": "Encore en colocation avec le père de ses filles. Elle met des règles, il change les mots de passe et fait l'inverse. Et au bout du compte, c'est elle qui s'y prend mal. Laure propose autre chose.",
+    "win": "Son amie a annulé au dernier moment et elle a quand même profité de son après-midi à Paris, seule. Puis un réveillon improvisé chez une copine.",
+    "tags": [
+      "Règles chez l'autre parent",
+      "Cadre & règles à la maison",
+      "Conflit avec l'ex"
     ]
   }
 ]
