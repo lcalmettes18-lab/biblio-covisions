@@ -2,11 +2,11 @@ let SEANCES = [];
 
 // ---------- familles de thématiques ----------
 const FAMILIES = [
-  { nom:"L'ex & la coparentalité", themes:["Conflit avec l'ex","Communication avec l'ex","Coparentalité","Garde & résidence","Argent avec l'ex","Procédure & audience","Règles chez l'autre parent","Logistique & organisation"] },
-  { nom:"Mes enfants",             themes:["Sommeil des enfants","Cadre & règles à la maison","Enfant en opposition","Ados","Relation avec mes enfants","École & scolarité","Écrans"] },
+  { nom:"L'ex & la coparentalité", themes:["Conflit avec l'ex","Communication avec l'ex","Coparentalité","Garde & résidence","Argent avec l'ex","Procédure & audience","Règles chez l'autre parent","Logistique & organisation","Encore sous le même toit","Se reloger"] },
+  { nom:"Mes enfants",             themes:["Sommeil des enfants","Cadre & règles à la maison","Enfant en opposition","Enfant angoissé","Mon enfant atypique","Ados","Relation avec mes enfants","École & scolarité","Écrans"] },
   { nom:"Mes émotions",            themes:["Stress & anxiété","Culpabilité","Colère & injustice","Tristesse & deuil","Solitude & vide","Enfant intérieur","Dépendance affective"] },
-  { nom:"Moi, ma confiance",       themes:["Confiance en soi","Estime de soi","Image de soi","Poser ses limites","Techniques de communication"] },
-  { nom:"Mon quotidien",           themes:["Fatigue & charge mentale","Sommeil & hygiène de vie","Argent & budget","Pro & reconversion"] }
+  { nom:"Moi, ma confiance",       themes:["Confiance en soi","Estime de soi","Image de soi","Acceptation de soi","Poser ses limites","Techniques de communication","Ma famille & mes proches"] },
+  { nom:"Mon quotidien",           themes:["Fatigue & charge mentale","Pression & perfectionnisme","Sommeil & hygiène de vie","Addiction","Poids & nourriture","Argent & budget","Pro & reconversion","Procrastination","Refaire ma vie amoureuse"] }
 ];
 const CATS = ["all","Hebdomadaire","Juridique","Enfants/Ados"];
 const CAT_LABEL = { all:"Toutes" };
