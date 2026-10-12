@@ -73,6 +73,20 @@
     ]
   },
   {
+    "who": "Coralie",
+    "date": "2026-06-25",
+    "jour": "jeudi 25 juin (midi)",
+    "at": "50 min",
+    "kind": "Hebdomadaire",
+    "titre": "Toujours sous le même toit que son ex, et elle sature",
+    "body": "Un an qu'elle cherche du travail, et sans CDI pas de location. Donc elle reste en colocation avec son ex. Ce qui monte maintenant, ce n'est plus l'agacement, c'est la saturation.",
+    "win": "Sa peur du conflit a baissé d'un cran : elle est allée vers sa fille malgré l'appréhension.",
+    "tags": [
+      "Stress & anxiété",
+      "Pro & reconversion"
+    ]
+  },
+  {
     "who": "Eva",
     "date": "2026-06-25",
     "jour": "jeudi 25 juin (midi)",
@@ -85,20 +99,6 @@
       "Solitude & vide",
       "Argent & budget",
       "Fatigue & charge mentale"
-    ]
-  },
-  {
-    "who": "Coralie",
-    "date": "2026-06-25",
-    "jour": "jeudi 25 juin (midi)",
-    "at": "50 min",
-    "kind": "Hebdomadaire",
-    "titre": "Toujours sous le même toit que son ex, et elle sature",
-    "body": "Un an qu'elle cherche du travail, et sans CDI pas de location. Donc elle reste en colocation avec son ex. Ce qui monte maintenant, ce n'est plus l'agacement, c'est la saturation.",
-    "win": "Sa peur du conflit a baissé d'un cran : elle est allée vers sa fille malgré l'appréhension.",
-    "tags": [
-      "Stress & anxiété",
-      "Pro & reconversion"
     ]
   },
   {
@@ -524,20 +524,6 @@
     ]
   },
   {
-    "who": "Sandra",
-    "date": "2026-06-04",
-    "jour": "jeudi 4 juin (midi)",
-    "at": "5 min",
-    "kind": "Hebdomadaire",
-    "titre": "Un SMS de monsieur et je ne suis plus bonne à rien pendant trois jours",
-    "body": "Un message accusateur de son ex, et elle y repense pendant des jours. Sauf qu'au moment d'aller toucher cette peur, elle ne sent rien du tout. Laure comprend pourquoi.",
-    "win": "Avant, un message la mettait par terre pendant des jours. Là, trois heures, et elle l'a relu posément.",
-    "tags": [
-      "Communication avec l'ex",
-      "Stress & anxiété"
-    ]
-  },
-  {
     "who": "Coralie",
     "date": "2026-06-04",
     "jour": "jeudi 4 juin (midi)",
@@ -549,6 +535,20 @@
     "tags": [
       "Solitude & vide",
       "Procrastination"
+    ]
+  },
+  {
+    "who": "Sandra",
+    "date": "2026-06-04",
+    "jour": "jeudi 4 juin (midi)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "Un SMS de monsieur et je ne suis plus bonne à rien pendant trois jours",
+    "body": "Un message accusateur de son ex, et elle y repense pendant des jours. Sauf qu'au moment d'aller toucher cette peur, elle ne sent rien du tout. Laure comprend pourquoi.",
+    "win": "Avant, un message la mettait par terre pendant des jours. Là, trois heures, et elle l'a relu posément.",
+    "tags": [
+      "Communication avec l'ex",
+      "Stress & anxiété"
     ]
   },
   {
@@ -567,20 +567,6 @@
     ]
   },
   {
-    "who": "Suzy",
-    "date": "2026-06-02",
-    "jour": "mardi 2 juin (soir)",
-    "at": "15 min",
-    "kind": "Hebdomadaire",
-    "titre": "Ma carapace me protège du rejet, et elle me coupe de tout le reste",
-    "body": "Dès qu'il y a un risque de rejet, elle se coupe de ses émotions. Très efficace : elle ne souffre pas. Sauf qu'elle ne ressent plus le bon non plus. Laure lui demande jusqu'où elle accepte d'ouvrir.",
-    "win": "Au lieu de filer vers sa ressource, elle est restée avec la souffrance pour l'écouter. Elle dit qu'elle lui a appris des choses.",
-    "tags": [
-      "Solitude & vide",
-      "Estime de soi"
-    ]
-  },
-  {
     "who": "Anne-Cécile",
     "date": "2026-06-02",
     "jour": "mardi 2 juin (soir)",
@@ -592,6 +578,20 @@
     "tags": [
       "Solitude & vide",
       "Dépendance affective"
+    ]
+  },
+  {
+    "who": "Suzy",
+    "date": "2026-06-02",
+    "jour": "mardi 2 juin (soir)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "Ma carapace me protège du rejet, et elle me coupe de tout le reste",
+    "body": "Dès qu'il y a un risque de rejet, elle se coupe de ses émotions. Très efficace : elle ne souffre pas. Sauf qu'elle ne ressent plus le bon non plus. Laure lui demande jusqu'où elle accepte d'ouvrir.",
+    "win": "Au lieu de filer vers sa ressource, elle est restée avec la souffrance pour l'écouter. Elle dit qu'elle lui a appris des choses.",
+    "tags": [
+      "Solitude & vide",
+      "Estime de soi"
     ]
   },
   {
@@ -648,6 +648,7 @@
     "body": "Le père de sa fille rachète ses parts de l'appartement. Elle avait mis 55 000 € d'apport, elle en récupère 43 000. Le rendez-vous notaire est dans quelques jours. Est-ce qu'elle a son mot à dire ?",
     "win": "",
     "tags": [
+      "Se reloger",
       "Argent avec l'ex"
     ]
   },
@@ -675,6 +676,7 @@
     "body": "Elle a quitté Paris, ses amis, sa famille pour le suivre à Bayonne. Séparée, elle ne trouve aucun logement avec trois enfants. Pour elle, la moindre des choses c'est qu'il l'aide.",
     "win": "",
     "tags": [
+      "Se reloger",
       "Argent avec l'ex",
       "Logistique & organisation"
     ]
