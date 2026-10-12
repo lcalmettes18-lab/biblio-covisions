@@ -37,23 +37,9 @@
     "body": "Garde alternée, même appartement, une seule voiture. Il lui envoie la facture du plombier, elle lui envoie celle de la courroie de distribution. Marine demande comment on sort de ces guéguerres.",
     "win": "",
     "tags": [
+      "Encore sous le même toit",
       "Argent avec l'ex",
-      "Coparentalité",
-      "Procédure & audience"
-    ]
-  },
-  {
-    "who": "Céline",
-    "date": "2026-03-23",
-    "jour": "lundi 23 mars (soir)",
-    "at": "45 min",
-    "kind": "Hebdomadaire",
-    "titre": "Son ex a dit oui à une soirée chez un copain sans lui demander",
-    "body": "Sa fille est invitée à dormir chez un copain. Le père a déjà dit oui, et c'était sur le temps de garde de Céline. Jusqu'où va l'autorité de chacun ? Laure trace la ligne.",
-    "win": "",
-    "tags": [
-      "Coparentalité",
-      "Communication avec l'ex"
+      "Coparentalité"
     ]
   },
   {
@@ -68,6 +54,20 @@
     "tags": [
       "Confiance en soi",
       "Procrastination"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-03-23",
+    "jour": "lundi 23 mars (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Son ex a dit oui à une soirée chez un copain sans lui demander",
+    "body": "Sa fille est invitée à dormir chez un copain. Le père a déjà dit oui, et c'était sur le temps de garde de Céline. Jusqu'où va l'autorité de chacun ? Laure trace la ligne.",
+    "win": "",
+    "tags": [
+      "Coparentalité",
+      "Communication avec l'ex"
     ]
   },
   {
@@ -139,6 +139,7 @@
     "body": "Elle va bientôt déménager, et son ex lui devra un loyer sur l'appartement qu'ils gardent à deux. Lui parle de faire des travaux. Coralie demande qui paie quoi.",
     "win": "Un recruteur l'a rappelée le soir même de sa candidature",
     "tags": [
+      "Se reloger",
       "Argent avec l'ex",
       "Logistique & organisation"
     ]
@@ -416,9 +417,9 @@
     "body": "Les refus s'enchaînent : mère seule, trois enfants, c'est trop petit. Son ex l'a fait venir à l'autre bout de la France et ne lève pas le petit doigt. Sans logement, la garde alternée tombe.",
     "win": "",
     "tags": [
-      "Conflit avec l'ex",
+      "Se reloger",
       "Garde & résidence",
-      "Procédure & audience"
+      "Conflit avec l'ex"
     ]
   },
   {
