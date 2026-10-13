@@ -1,5 +1,95 @@
 [
   {
+    "who": "Agathe",
+    "date": "2026-10-12",
+    "jour": "lundi 12 octobre (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Comment ne pas prendre une décision sous le coup de la colère ? »",
+    "body": "Deux boîtes veulent d'elle et elle doit répondre cette semaine. Sauf qu'elle vient de passer une journée horrible au boulot et qu'elle a envie de claquer la porte. Laure lui donne la question à se poser avant de décider.",
+    "win": "",
+    "tags": [
+      "Pro & reconversion",
+      "Poser ses limites",
+      "Confiance en soi"
+    ]
+  },
+  {
+    "who": "Iris",
+    "date": "2026-10-12",
+    "jour": "lundi 12 octobre (soir)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je n'ai pas l'impression de mériter une relation à la hauteur de mes espérances »",
+    "body": "Elle a repris confiance partout, sauf là. Elle n'arrive pas à croire qu'elle a droit à une vraie histoire, et elle pense que c'est une question de mérite. Laure va chercher ailleurs.",
+    "win": "",
+    "tags": [
+      "Refaire ma vie amoureuse",
+      "Poser ses limites",
+      "Estime de soi"
+    ]
+  },
+  {
+    "who": "Alexandra",
+    "date": "2026-10-11",
+    "jour": "dimanche 11 octobre (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Je suis dans un monde sapeur-pompier, j'éteins des feux »",
+    "body": "Divorce qui traîne, maison à vendre, et toujours en colocation avec son ex. Tout lui retombe dessus et elle n'arrive plus à sortir la tête de l'eau. Laure dégraisse le mammouth avec elle.",
+    "win": "",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Procrastination",
+      "Encore sous le même toit"
+    ]
+  },
+  {
+    "who": "Pauline",
+    "date": "2026-10-11",
+    "jour": "dimanche 11 octobre (soir)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Que faire face à un ex que même le tribunal n'arrête pas ? »",
+    "body": "Le jugement est tombé, et il redemande la même chose chaque semaine en reformulant, jusqu'à ce qu'elle craque. Laure lui donne la recette qu'elle a mis sept ans à trouver.",
+    "win": "",
+    "tags": [
+      "Conflit avec l'ex",
+      "Communication avec l'ex",
+      "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Jessica",
+    "date": "2026-10-11",
+    "jour": "dimanche 11 octobre (soir)",
+    "at": "1 h 20",
+    "kind": "Hebdomadaire",
+    "titre": "« J'attends de ma famille une reconnaissance qu'ils ne me donneront jamais »",
+    "body": "Ses sœurs démolissent tout ce que son nouvel entourage lui renvoie de bien. Elle continue à chercher chez eux une reconnaissance qu'elle n'aura jamais. Laure lui fait regarder les deux chemins possibles.",
+    "win": "",
+    "tags": [
+      "Ma famille & mes proches",
+      "Dépendance affective",
+      "Acceptation de soi"
+    ]
+  },
+  {
+    "who": "Céline B",
+    "date": "2026-10-11",
+    "jour": "dimanche 11 octobre (soir)",
+    "at": "1 h 45",
+    "kind": "Hebdomadaire",
+    "titre": "« Quoi que je fasse, je ne suis jamais sereine »",
+    "body": "Une pause, elle culpabilise de ne rien faire. Une sortie, elle culpabilise de laisser sa fille. Laure refuse de combattre cette petite voix, et va plutôt la rencontrer.",
+    "win": "",
+    "tags": [
+      "Culpabilité",
+      "Pression & perfectionnisme",
+      "Estime de soi"
+    ]
+  },
+  {
     "who": "Céline V",
     "date": "2026-10-09",
     "jour": "vendredi 9 octobre (midi)",
