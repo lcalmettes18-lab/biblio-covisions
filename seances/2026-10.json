@@ -1,5 +1,94 @@
 [
   {
+    "who": "Elodie",
+    "date": "2026-10-13",
+    "jour": "mardi 13 octobre (midi)",
+    "at": "le début",
+    "kind": "Enfants-Ados",
+    "titre": "Je répète 500 fois, et il me reproche de rabâcher",
+    "body": "Son fils de 13 ans ne fait que ce qu'il veut quand il veut, depuis qu'il a 2 ans. Elle répète 500 fois, il lui reproche de rabâcher, et elle est épuisée. Julie répond l'inverse de ce qu'elle attendait.",
+    "win": "Deux rendez-vous tenus au jour près : vendredi en covision, puis mardi avec Julie.",
+    "tags": [
+      "Ados",
+      "Cadre & règles à la maison",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Aurore G",
+    "date": "2026-10-13",
+    "jour": "mardi 13 octobre (midi)",
+    "at": "20 min",
+    "kind": "Enfants-Ados",
+    "titre": "« J'ai l'impression de ne pas avoir tenu ma promesse »",
+    "body": "Sa fille de 7 ans réclame des activités manuelles à n'importe quelle heure, avec la petite de 3 ans dans les pattes. Quand elle cède à la va-vite, elle culpabilise de ne pas avoir été à la hauteur.",
+    "win": "Elle a posé à l'oral la question qu'elle gardait depuis le mois d'août.",
+    "tags": [
+      "Relation avec mes enfants",
+      "Culpabilité",
+      "Fatigue & charge mentale"
+    ]
+  },
+  {
+    "who": "Nelly",
+    "date": "2026-10-13",
+    "jour": "mardi 13 octobre (midi)",
+    "at": "30 min",
+    "kind": "Enfants-Ados",
+    "titre": "Elle jette son dessin et dit qu'elle est nulle",
+    "body": "Sa fille de 7 ans veut tout faire seule, puis jette son dessin et dit qu'elle est nulle. Toujours vers 19h, quand Nelly est au bout. Julie dit de ne surtout pas la rassurer.",
+    "win": "Elle a redemandé la parole, après deux covisions où elle n'avait rien dit.",
+    "tags": [
+      "Relation avec mes enfants",
+      "Cadre & règles à la maison"
+    ]
+  },
+  {
+    "who": "Céline B",
+    "date": "2026-10-13",
+    "jour": "mardi 13 octobre (midi)",
+    "at": "1 h 05",
+    "kind": "Enfants-Ados",
+    "titre": "« Elle est enfant unique, alors je la laisse sur les écrans »",
+    "body": "Sa fille de 14 ans est enfant unique et ne sait plus s'occuper sans son téléphone. Le week-end, elle est très libre et très seule. Céline culpabilise, et elle a peur qu'elle s'ennuie.",
+    "win": "Cinq covisions en neuf jours. Et elle a trouvé ses réponses toute seule, en écoutant les autres.",
+    "tags": [
+      "Écrans",
+      "Culpabilité",
+      "Règles chez l'autre parent"
+    ]
+  },
+  {
+    "who": "Maud",
+    "date": "2026-10-13",
+    "jour": "mardi 13 octobre (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Et si on était encore ensemble, ça aurait été tellement bien… »",
+    "body": "Dix ans après le décès de leur amie, tout le village s'est retrouvé. Elle a vu deux filles les regarder, lui, elle et leur fils, en pensant « quel gâchis ». Et depuis, elle idéalise un passé qui n'était pas beau.",
+    "win": "Son couple passe le test des quatre besoins fondamentaux : 20 sur 20.",
+    "tags": [
+      "Tristesse & deuil",
+      "Refaire ma vie amoureuse",
+      "Dépendance affective"
+    ]
+  },
+  {
+    "who": "Nolwenn",
+    "date": "2026-10-13",
+    "jour": "mardi 13 octobre (soir)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "Est-ce qu'on peut vraiment tout mener de front ?",
+    "body": "28 chevaux, une formation, un diplôme dans un mois, deux ados à l'internat. Dimanche, elle a passé la journée au travail. Laure lui montre qu'elle avait déjà la réponse.",
+    "win": "Elle tient son rituel de la semaine, alors qu'elle avait failli ne pas y aller.",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Culpabilité",
+      "Pro & reconversion"
+    ]
+  },
+  {
     "who": "Agathe",
     "date": "2026-10-12",
     "jour": "lundi 12 octobre (soir)",
