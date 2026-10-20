@@ -1,5 +1,95 @@
 [
   {
+    "who": "Aurore G",
+    "date": "2026-10-19",
+    "jour": "lundi 19 octobre (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai toujours envie d'aller voir ce qu'il fait, et je ne trouve rien »",
+    "body": "Elle va voir ses réseaux sociaux sans pouvoir s'en empêcher, en espérant une preuve qu'elle a compté pour lui. Elle sait très bien qu'elle ne la trouvera pas. Laure décortique la phrase qui tourne.",
+    "win": "Son nuage noir est devenu tout petit et tout blanc, et il est parti avec le soleil. Son cœur, un soleil.",
+    "tags": [
+      "Dépendance affective",
+      "Solitude & vide",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Maud",
+    "date": "2026-10-19",
+    "jour": "lundi 19 octobre (soir)",
+    "at": "30 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Ma sœur ne me soutient pas, et je continue de tendre la main »",
+    "body": "Depuis sa séparation, sa sœur la squeeze devant tout le monde et son beau-frère raconte des choses fausses dans le village. Elle a essayé plusieurs fois. Elle veut lâcher et elle n'y arrive pas.",
+    "win": "« Voilà, elle a lâché. » Et rendez-vous pris avec sa partie triste dès le lendemain.",
+    "tags": [
+      "Ma famille & mes proches",
+      "Culpabilité",
+      "Tristesse & deuil"
+    ]
+  },
+  {
+    "who": "Wafaa",
+    "date": "2026-10-19",
+    "jour": "lundi 19 octobre (soir)",
+    "at": "1 h 15",
+    "kind": "Hebdomadaire",
+    "titre": "« Je n'ai plus un seul week-end à moi »",
+    "body": "Sa fille de 12 ans reste à la maison tous les week-ends maintenant. Elle l'adore, mais son week-end sur deux pour souffler a disparu. Et demander du temps, elle n'ose pas vraiment.",
+    "win": "Elle a déjà posé son besoin à sa grande de 18 ans : les week-ends, on se les partage.",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Ados",
+      "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Aurélie B",
+    "date": "2026-10-19",
+    "jour": "lundi 19 octobre (soir)",
+    "at": "1 h 25",
+    "kind": "Hebdomadaire",
+    "titre": "« Personne ne veut prendre mon fils, et j'ai quinze jours devant moi »",
+    "body": "Deux voisines, une grand-mère, et trois non. Son fils est adorable chez les autres, et pourtant personne ne le prend. Quinze jours de vacances arrivent et elle les redoute déjà.",
+    "win": "",
+    "tags": [
+      "Fatigue & charge mentale",
+      "Solitude & vide",
+      "Logistique & organisation"
+    ]
+  },
+  {
+    "who": "Céline V",
+    "date": "2026-10-16",
+    "jour": "vendredi 16 octobre (midi)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Je me pourrie mes retours de soirée » — est-ce que j'ai bien fait de dire ça ?",
+    "body": "Elle rentre d'une chouette soirée et elle repasse tout en boucle : est-ce que j'ai bien fait de dire ça ? Ça a commencé à ses 25 ans. Laure remonte le fil, et ça mène bien plus loin.",
+    "win": "Le dimanche d'avant, elle a laissé l'émotion la traverser sous la douche au lieu de ruminer — « ça a fonctionné, je me suis sentie mieux après ».",
+    "tags": [
+      "Enfant intérieur",
+      "Confiance en soi",
+      "Dépendance affective"
+    ]
+  },
+  {
+    "who": "Mélodie",
+    "date": "2026-10-16",
+    "jour": "vendredi 16 octobre (midi)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "« On s'aime, mais mes filles ne veulent pas de lui »",
+    "body": "Huit mois qu'elle ne l'a pas vu, et ils s'écrivent toujours. Ses filles et sa mère n'en veulent pas, et elle leur avait promis. Laure sort une grille de notes au lieu des émotions.",
+    "win": "Elle le pose pour la première fois en six ans : « oh punaise, en fait il m'a rien donné. »",
+    "tags": [
+      "Refaire ma vie amoureuse",
+      "Dépendance affective",
+      "Colère & injustice"
+    ]
+  },
+  {
     "who": "Mélodie",
     "date": "2026-10-15",
     "jour": "jeudi 15 octobre (midi)",
