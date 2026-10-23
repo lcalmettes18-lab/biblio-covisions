@@ -1,5 +1,95 @@
 [
   {
+    "who": "Sophie",
+    "date": "2026-10-22",
+    "jour": "jeudi 22 octobre (midi)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Il a une nouvelle compagne. Elle a pris ma place ? »",
+    "body": "Elle apprend par ses enfants que son ex a une nouvelle compagne. Depuis, les scénarios tournent en boucle : elle a pris ma place. Laure démonte la phrase, morceau par morceau.",
+    "win": "Dix-sept jours après avoir coupé les liens, elle encaisse la nouvelle sans crise d'angoisse — et elle vient le poser devant le groupe au lieu de ruminer seule.",
+    "tags": [
+      "Tristesse & deuil",
+      "Estime de soi",
+      "Refaire ma vie amoureuse"
+    ]
+  },
+  {
+    "who": "Mélodie",
+    "date": "2026-10-22",
+    "jour": "jeudi 22 octobre (midi)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je pleure devant une pub de yaourt, et je ne sais plus gérer »",
+    "body": "Dix ans sans pleurer, et depuis trois semaines les vannes sont rouvertes. Elle pleure au yoga, devant la télé, devant tout. Elle veut en faire une force. Laure cherche d'où vient la coupure.",
+    "win": "Elle est sortie de sa cuirasse émotionnelle — « le fait de prendre conscience que je suis là, que j'existe, ça a fait péter un verrou ».",
+    "tags": [
+      "Acceptation de soi",
+      "Confiance en soi",
+      "Tristesse & deuil"
+    ]
+  },
+  {
+    "who": "Céline V",
+    "date": "2026-10-22",
+    "jour": "jeudi 22 octobre (midi)",
+    "at": "1 h",
+    "kind": "Hebdomadaire",
+    "titre": "« Est-ce que c'est normal que le vide revienne, alors que j'avance ? »",
+    "body": "Les outils marchent, mais dès qu'elle lâche un peu, le vide affectif et la peur de l'abandon reviennent. Est-ce normal, ou est-ce qu'elle stagne ? Laure lui fait sortir sa calculette.",
+    "win": "Ses coups de mou duraient des jours et des jours. Aujourd'hui ils ne passent plus les 24 heures : 70 % de moins en quatre mois.",
+    "tags": [
+      "Solitude & vide",
+      "Pression & perfectionnisme",
+      "Confiance en soi"
+    ]
+  },
+  {
+    "who": "Nelly",
+    "date": "2026-10-22",
+    "jour": "jeudi 22 octobre (soir)",
+    "at": "le début",
+    "kind": "Juridique",
+    "titre": "Comment je le force à prendre ses filles, alors que ce sont elles qui le demandent ?",
+    "body": "Droit de visite « libre » sur le papier, un week-end sur deux dans les faits. Et quand elle demande plus, il menace de tout prendre. L'avocat lui donne un angle d'attaque auquel elle n'avait pas pensé.",
+    "win": "Elle est repartie avec un chiffre et une stratégie, elle qui était arrivée en disant qu'elle ne savait pas combien demander.",
+    "tags": [
+      "Garde & résidence",
+      "Argent avec l'ex",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Delphine R",
+    "date": "2026-10-22",
+    "jour": "jeudi 22 octobre (soir)",
+    "at": "30 min",
+    "kind": "Juridique",
+    "titre": "Mes enfants de 11 et 14 ans restent seuls de 5h à 12h30, et il y a des caméras",
+    "body": "Elle l'a appris le matin même, par sa fille. Des caméras dans le logement, et aucun adulte pendant sept heures. Est-ce que c'est légal, et qu'est-ce qu'on peut faire ?",
+    "win": "« J'ai besoin d'équilibre aussi. » Elle a dit non au levier qu'on lui proposait, et c'était la bonne réponse pour elle.",
+    "tags": [
+      "Règles chez l'autre parent",
+      "Coparentalité",
+      "Communication avec l'ex"
+    ]
+  },
+  {
+    "who": "Céline B",
+    "date": "2026-10-22",
+    "jour": "jeudi 22 octobre (soir)",
+    "at": "35 min",
+    "kind": "Juridique",
+    "titre": "Un jugement qui date de dix ans, est-ce que ça peut encore se rouvrir ?",
+    "body": "Orthodontie, optique, lycée privé… Le père vit à 8 000 km et paie 250 € par mois, fixés il y a dix ans. Elle n'osait pas y toucher, de peur de réveiller l'ours dans sa tanière.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Procédure & audience",
+      "Argent & budget"
+    ]
+  },
+  {
     "who": "Aurore G",
     "date": "2026-10-19",
     "jour": "lundi 19 octobre (soir)",
