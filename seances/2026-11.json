@@ -1,5 +1,50 @@
 [
   {
+    "who": "Sophie",
+    "date": "2026-11-05",
+    "jour": "jeudi 5 novembre (midi)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Je me sens vide… comment je réveille ma petite flamme ? »",
+    "body": "Il l'a quittée il y a un an, et elle vient d'apprendre qu'il est avec quelqu'un. Plus de plaisir à rien, même promener son chien. Laure va voir sa tristesse là où elle est.",
+    "win": "",
+    "tags": [
+      "Solitude & vide",
+      "Enfant intérieur",
+      "Tristesse & deuil"
+    ]
+  },
+  {
+    "who": "Alexandra",
+    "date": "2026-11-05",
+    "jour": "jeudi 5 novembre (midi)",
+    "at": "55 min",
+    "kind": "Hebdomadaire",
+    "titre": "« J'aimerais apprendre à dire non, et me faire respecter »",
+    "body": "Impossible de poser une limite, surtout aux gens toxiques. Son ancien mot de passe, c'était « SageAlex ». Laure va chercher ce qu'il y a derrière l'étiquette.",
+    "win": "",
+    "tags": [
+      "Poser ses limites",
+      "Image de soi",
+      "Ma famille & mes proches"
+    ]
+  },
+  {
+    "who": "Nelly",
+    "date": "2026-11-05",
+    "jour": "jeudi 5 novembre (midi)",
+    "at": "1 h 20",
+    "kind": "Hebdomadaire",
+    "titre": "Il lui demande de signer un faux document, et il la traite d'égoïste",
+    "body": "Le père de ses filles se dit au bord du gouffre et lui demande d'acter une baisse de pension. Elle a des remords à saisir le juge. Laure fait le tri avec elle.",
+    "win": "Elle a refusé net de falsifier le document, lui a sorti le texte de loi, et posé sa deadline : décembre, sinon le JAF.",
+    "tags": [
+      "Argent avec l'ex",
+      "Culpabilité",
+      "Procédure & audience"
+    ]
+  },
+  {
     "who": "Delphine S",
     "date": "2026-11-03",
     "jour": "mardi 3 novembre (soir)",
