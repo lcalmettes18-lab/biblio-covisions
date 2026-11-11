@@ -3,6 +3,36 @@
     "who": "Aurélie",
     "date": "2026-03-30",
     "jour": "lundi 30 mars (soir)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "Mon fils de 11 ans ne m'écoute plus, et je n'ai plus aucune conséquence à lui opposer",
+    "body": "Onze ans, il ne travaille plus, la communication est rompue, et à la maison ça finit par casser. Elle se sent en démission parentale et n'avance plus dans le programme. Laure l'emmène chercher une autorité plus haute qu'elle.",
+    "win": "Elle a appelé les internats et l'assistante sociale, et obtenu une fiche de suivi avec le collège.",
+    "tags": [
+      "Enfant en opposition",
+      "Ados",
+      "École & scolarité"
+    ]
+  },
+  {
+    "who": "Alexia",
+    "date": "2026-03-30",
+    "jour": "lundi 30 mars (soir)",
+    "at": "1 h",
+    "kind": "Hebdomadaire",
+    "titre": "Mon fils de 13 ans me dépasse déjà en taille, et je n'ose appeler personne",
+    "body": "Deux ans que ça dure. Il a 13 ans, il fait une tête de plus qu'elle, et elle n'a jamais appelé personne. Ce qui la retient, c'est la peur qu'on le lui prenne. Laure lui montre qui protège qui.",
+    "win": "",
+    "tags": [
+      "Enfant en opposition",
+      "Ados",
+      "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Aurélie",
+    "date": "2026-03-30",
+    "jour": "lundi 30 mars (soir)",
     "at": "1 h 30",
     "kind": "Hebdomadaire",
     "titre": "Je coupe l'écran, il rallume, et ça finit mal",
@@ -145,6 +175,21 @@
     ]
   },
   {
+    "who": "Céline",
+    "date": "2026-03-20",
+    "jour": "vendredi 20 mars (midi)",
+    "at": "1 h 15",
+    "kind": "Hebdomadaire",
+    "titre": "« Comment on transforme le négatif en positif ? »",
+    "body": "Sa fille de 19 ans ne fait plus rien à la maison, son poste ne lui convient pas, et le soir elle s'enferme dans sa chambre. Elle demande comment on retourne tout ça.",
+    "win": "",
+    "tags": [
+      "Relation avec mes enfants",
+      "Poser ses limites",
+      "Pro & reconversion"
+    ]
+  },
+  {
     "who": "Anne-Cécile",
     "date": "2026-03-16",
     "jour": "lundi 16 mars (soir)",
@@ -276,6 +321,21 @@
     ]
   },
   {
+    "who": "Aurélie",
+    "date": "2026-03-12",
+    "jour": "jeudi 12 mars (soir)",
+    "at": "le début",
+    "kind": "Enfants-Ados",
+    "titre": "« À la moindre demande, mon fils de 11 ans explose »",
+    "body": "Écran, douche, paquet de gâteaux à ranger : tout ce qu'elle demande part en crise. Elle finit par lâcher parce qu'elle est épuisée, et elle a l'impression qu'il est trop tard. Julie reprend tout.",
+    "win": "Une fois, elle a tenu jusqu'au bout. Il a fini par lâcher.",
+    "tags": [
+      "Écrans",
+      "Enfant en opposition",
+      "Cadre & règles à la maison"
+    ]
+  },
+  {
     "who": "Coralie",
     "date": "2026-03-12",
     "jour": "jeudi 12 mars (soir)",
@@ -316,6 +376,20 @@
     "tags": [
       "École & scolarité",
       "Enfant angoissé"
+    ]
+  },
+  {
+    "who": "Delphine",
+    "date": "2026-03-12",
+    "jour": "jeudi 12 mars (soir)",
+    "at": "55 min",
+    "kind": "Enfants-Ados",
+    "titre": "« Tu es censée être ma préférée »",
+    "body": "Sa fille de 10 ans y revient sans arrêt, et Delphine y reconnaît les mécaniques de son ex. Ça finit en dispute, et elle commence à appréhender les moments tous les trois.",
+    "win": "",
+    "tags": [
+      "Relation avec mes enfants",
+      "Colère & injustice"
     ]
   },
   {
