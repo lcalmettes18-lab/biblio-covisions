@@ -92,6 +92,21 @@
     "who": "Céline",
     "date": "2026-02-20",
     "jour": "vendredi 20 février (midi)",
+    "at": "20 min",
+    "kind": "Hebdomadaire",
+    "titre": "Comment je fais pour qu'un ex toxique me lâche vraiment ?",
+    "body": "Un coup je t'aime, un coup je t'insulte, et il appelle tous les jours. Elle veut juste qu'il la lâche. Laure retourne la question : ce n'est pas lui qui va lâcher.",
+    "win": "",
+    "tags": [
+      "Conflit avec l'ex",
+      "Communication avec l'ex",
+      "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-02-20",
+    "jour": "vendredi 20 février (midi)",
     "at": "40 min",
     "kind": "Hebdomadaire",
     "titre": "Mes deux grands sont dys et TDAH, et l'école n'est pas faite pour eux",
@@ -173,6 +188,21 @@
     "tags": [
       "Écrans",
       "Cadre & règles à la maison"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-02-16",
+    "jour": "lundi 16 février (soir)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "Comment gérer un ex manipulateur quand on a trois enfants ensemble ?",
+    "body": "Elle veut poser une limite, mais une limite qu'on ne pourra pas lui reprocher. Elle sort d'un rendez-vous de médiation où elle s'est sentie manipulée une fois de plus.",
+    "win": "",
+    "tags": [
+      "Communication avec l'ex",
+      "Conflit avec l'ex",
+      "Dépendance affective"
     ]
   },
   {
@@ -366,6 +396,21 @@
     ]
   },
   {
+    "who": "Céline",
+    "date": "2026-02-09",
+    "jour": "lundi 9 février (soir)",
+    "at": "1 h 15",
+    "kind": "Hebdomadaire",
+    "titre": "L'autre femme emmène ses enfants chez le médecin",
+    "body": "La nouvelle compagne de son ex pose des jours quand les enfants sont malades, les emmène au médecin, prépare les sacs. Elle a peur qu'elle prenne sa place. Et qu'ils préfèrent rester là-bas.",
+    "win": "",
+    "tags": [
+      "Conflit avec l'ex",
+      "Relation avec mes enfants",
+      "Dépendance affective"
+    ]
+  },
+  {
     "who": "Marine",
     "date": "2026-02-09",
     "jour": "lundi 9 février (soir)",
@@ -405,6 +450,21 @@
     "tags": [
       "Poids & nourriture",
       "Sommeil & hygiène de vie"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-02-04",
+    "jour": "mercredi 4 février (soir)",
+    "at": "20 min",
+    "kind": "Hebdomadaire",
+    "titre": "Sa fille de 14 ans dort dans son lit depuis des mois",
+    "body": "Sa fille de 14 ans ne veut plus dormir dans sa chambre. Déco, thérapie, elle a tout proposé, rien ne prend, et c'est elle qui dort mal. Laure lui montre qui s'adapte à qui.",
+    "win": "",
+    "tags": [
+      "Sommeil des enfants",
+      "Ados",
+      "Culpabilité"
     ]
   },
   {
