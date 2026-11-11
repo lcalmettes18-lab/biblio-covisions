@@ -1,5 +1,20 @@
 [
   {
+    "who": "Maud",
+    "date": "2026-11-10",
+    "jour": "mardi 10 novembre (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Est-ce qu'il faut qu'on vive ensemble, ou est-ce qu'on arrête ? »",
+    "body": "Son copain a traversé un gros coup dur, il a craché ce qu'il avait sur le cœur, et il a remis leur couple en question. Depuis elle se demande si elle devrait vivre avec lui. Laure déplace complètement la question.",
+    "win": "Elle dit maintenant les choses à son copain, et elle l'attribue au programme.",
+    "tags": [
+      "Refaire ma vie amoureuse",
+      "Culpabilité",
+      "Confiance en soi"
+    ]
+  },
+  {
     "who": "Alexandra",
     "date": "2026-11-09",
     "jour": "lundi 9 novembre (soir)",
@@ -27,6 +42,21 @@
       "Communication avec l'ex",
       "École & scolarité",
       "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Céline B",
+    "date": "2026-11-08",
+    "jour": "dimanche 8 novembre (soir)",
+    "at": "10 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Est-ce que j'ai un blocage, ou est-ce que c'est juste lui qui n'est pas le bon ? »",
+    "body": "Dix ans de séparation, deux ou trois histoires qui ont capoté, et un homme tout nouveau qui ne lui fait rien ressentir. Elle se demande ce qui bloque chez elle. Laure a une façon très simple de trancher.",
+    "win": "Elle est repartie en ayant arrêté de se flageller : « c'est pas automatiquement moi ».",
+    "tags": [
+      "Refaire ma vie amoureuse",
+      "Confiance en soi",
+      "Acceptation de soi"
     ]
   },
   {
