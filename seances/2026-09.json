@@ -15,6 +15,21 @@
     ]
   },
   {
+    "who": "Lucie",
+    "date": "2026-09-24",
+    "jour": "jeudi 24 septembre (midi)",
+    "at": "50 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Chez papa je ne fais jamais de cauchemar, et chez toi tout le temps »",
+    "body": "Son fils de 11 ans lui répète que chez son père tout va bien, et que chez elle il fait des cauchemars. Elle a tout essayé, elle paie tout, et c'est elle qui prend les reproches. Laure retourne la situation.",
+    "win": "",
+    "tags": [
+      "Relation avec mes enfants",
+      "Culpabilité",
+      "Coparentalité"
+    ]
+  },
+  {
     "who": "Sophie",
     "date": "2026-09-24",
     "jour": "jeudi 24 septembre (midi)",
@@ -145,6 +160,21 @@
     "tags": [
       "Tristesse & deuil",
       "Colère & injustice"
+    ]
+  },
+  {
+    "who": "Mélodie",
+    "date": "2026-09-18",
+    "jour": "vendredi 18 septembre (midi)",
+    "at": "30 min",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai peur d'avoir tout envoyé valser sur un coup de tête »",
+    "body": "Elle quitte l'enseignement pour se reconvertir, et depuis quelques jours la panique est revenue. Une petite voix lui répète qu'elle abandonne, qu'elle n'est pas fiable. Laure l'emmène voir d'où vient cette voix.",
+    "win": "",
+    "tags": [
+      "Pro & reconversion",
+      "Confiance en soi",
+      "Culpabilité"
     ]
   },
   {
