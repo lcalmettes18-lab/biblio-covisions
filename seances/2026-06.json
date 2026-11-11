@@ -1,5 +1,34 @@
 [
   {
+    "who": "Anne-Cécile",
+    "date": "2026-06-30",
+    "jour": "mardi 30 juin (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Si je lâche cette colère, qu'est-ce qui me reste ? »",
+    "body": "Une vieille colère d'adolescence est remontée la semaine d'avant. Laure lui avait donné un exercice, elle ne l'a pas fait. Derrière les « pas le temps », une peur : perdre un morceau d'elle-même.",
+    "win": "",
+    "tags": [
+      "Colère & injustice",
+      "Enfant intérieur",
+      "Procrastination"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-06-29",
+    "jour": "lundi 29 juin (soir)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Tous les hommes ne pensent qu'à ça »",
+    "body": "Module 13, les croyances qui freinent une nouvelle histoire. Céline en a une bien ancrée, et tout son passé semble lui donner raison. Laure et le groupe l'aident à la faire bouger.",
+    "win": "",
+    "tags": [
+      "Estime de soi",
+      "Poser ses limites"
+    ]
+  },
+  {
     "who": "Nolwenn",
     "date": "2026-06-29",
     "jour": "lundi 29 juin (soir)",
@@ -12,6 +41,36 @@
       "Dépendance affective",
       "Enfant intérieur",
       "Solitude & vide"
+    ]
+  },
+  {
+    "who": "Alexia",
+    "date": "2026-06-29",
+    "jour": "lundi 29 juin (soir)",
+    "at": "1 h",
+    "kind": "Hebdomadaire",
+    "titre": "« Il n'a pas la garde, mais il veut tout contrôler »",
+    "body": "Séparée depuis trois ans, garde principale. Son ex conteste ses décisions du quotidien et multiplie les mains courantes. Laure lui explique ce qu'il a le droit de dire… et ce qu'il n'a pas.",
+    "win": "",
+    "tags": [
+      "Conflit avec l'ex",
+      "Procédure & audience",
+      "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Nolwenn",
+    "date": "2026-06-29",
+    "jour": "lundi 29 juin (soir)",
+    "at": "1 h 15",
+    "kind": "Hebdomadaire",
+    "titre": "« Est-ce que je dois lui dire où est ma fille en vacances ? »",
+    "body": "Le père n'a pas vu les enfants depuis trois ans, mais il demande le programme de l'été. Sa fille part en colo et elle ne veut pas qu'il sache où. Est-ce qu'elle risque quelque chose si elle ne répond pas ?",
+    "win": "",
+    "tags": [
+      "Coparentalité",
+      "Communication avec l'ex",
+      "Procédure & audience"
     ]
   },
   {
@@ -73,6 +132,20 @@
     ]
   },
   {
+    "who": "Céline",
+    "date": "2026-06-25",
+    "jour": "jeudi 25 juin (midi)",
+    "at": "10 min",
+    "kind": "Hebdomadaire",
+    "titre": "Il lui écrit que s'il est parti, c'est de sa faute à elle",
+    "body": "Son ex lui a envoyé un message pour lui expliquer pourquoi la rupture est de sa faute. Elle le connaît par cœur tellement elle l'a relu. Et elle porte tout. Laure va voir ce qui parle vraiment en elle.",
+    "win": "",
+    "tags": [
+      "Culpabilité",
+      "Estime de soi"
+    ]
+  },
+  {
     "who": "Coralie",
     "date": "2026-06-25",
     "jour": "jeudi 25 juin (midi)",
@@ -114,6 +187,21 @@
       "Ma famille & mes proches",
       "Techniques de communication",
       "Stress & anxiété"
+    ]
+  },
+  {
+    "who": "Nolwenn",
+    "date": "2026-06-23",
+    "jour": "mardi 23 juin (soir)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "Les larmes montent sans prévenir, et ça remonte à ses 11 ans",
+    "body": "Son compagnon l'a quittée il y a quelques semaines. Depuis, ça monte et ça déborde tout le temps, sans prévenir. En cherchant d'où vient cette vague, elle tombe sur une scène de ses 11 ans.",
+    "win": "",
+    "tags": [
+      "Tristesse & deuil",
+      "Enfant intérieur",
+      "Dépendance affective"
     ]
   },
   {
@@ -170,6 +258,20 @@
     "tags": [
       "Solitude & vide",
       "Stress & anxiété"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-06-22",
+    "jour": "lundi 22 juin (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Faut-il dire les secrets de famille à un enfant de 9 ans ?",
+    "body": "Côté famille du père, un aïeul a été condamné pour des faits graves. Elle déteste les secrets et voudrait que son fils de 9 ans sache. À partir de quel âge on peut dire ? Laure et le groupe répondent.",
+    "win": "",
+    "tags": [
+      "Ma famille & mes proches",
+      "Relation avec mes enfants"
     ]
   },
   {
@@ -375,6 +477,21 @@
     ]
   },
   {
+    "who": "Iris",
+    "date": "2026-06-15",
+    "jour": "lundi 15 juin (soir)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai peur de ressentir la faim »",
+    "body": "Avant même d'avoir commencé le rééquilibrage alimentaire, elle bloque sur une seule chose : avoir faim. Laure remonte le fil, et ça ne parle pas de nourriture.",
+    "win": "",
+    "tags": [
+      "Poids & nourriture",
+      "Enfant intérieur",
+      "Solitude & vide"
+    ]
+  },
+  {
     "who": "Marine",
     "date": "2026-06-15",
     "jour": "lundi 15 juin (soir)",
@@ -419,6 +536,21 @@
     ]
   },
   {
+    "who": "Marine",
+    "date": "2026-06-12",
+    "jour": "vendredi 12 juin (midi)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Du jour au lendemain, je n'ai plus de désir pour mon ex »",
+    "body": "Une séance le lundi, et le désir est tombé d'un coup. Elle veut comprendre le lien. Laure explique ce qui nous tient attachées à quelqu'un avec qui on n'est pas bien.",
+    "win": "",
+    "tags": [
+      "Dépendance affective",
+      "Enfant intérieur",
+      "Refaire ma vie amoureuse"
+    ]
+  },
+  {
     "who": "Wafaa",
     "date": "2026-06-12",
     "jour": "vendredi 12 juin (midi)",
@@ -449,6 +581,21 @@
     ]
   },
   {
+    "who": "Wafaa",
+    "date": "2026-06-09",
+    "jour": "mardi 9 juin (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "Dès que je prends un quart d'heure pour moi, il y a toujours un truc qui vient",
+    "body": "Neuf heures de travail, puis un quart d'heure de rameur pour elle. Sa fille de 12 ans débarque, le quart d'heure y passe, la colère monte. Laure va chercher bien plus loin que la colère.",
+    "win": "Plus de boule dans la gorge à la fin de la séance.",
+    "tags": [
+      "Poser ses limites",
+      "Colère & injustice",
+      "Enfant intérieur"
+    ]
+  },
+  {
     "who": "Iris",
     "date": "2026-06-08",
     "jour": "lundi 8 juin (soir)",
@@ -459,6 +606,21 @@
     "win": "",
     "tags": [
       "Estime de soi",
+      "Stress & anxiété",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-06-08",
+    "jour": "lundi 8 juin (soir)",
+    "at": "30 min",
+    "kind": "Hebdomadaire",
+    "titre": "Je gagne bien ma vie, et je me réveille la nuit en me disant que je vais finir à la rue",
+    "body": "Elle gagne bien sa vie et se réveille quand même la nuit : « comment je vais y arriver ? » Deux parties d'elle se disputent, celle qui veut économiser et celle qui veut profiter. Laure va voir laquelle a peur.",
+    "win": "",
+    "tags": [
+      "Argent & budget",
       "Stress & anxiété",
       "Enfant intérieur"
     ]
