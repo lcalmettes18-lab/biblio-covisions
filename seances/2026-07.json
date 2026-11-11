@@ -91,7 +91,7 @@
     "jour": "jeudi 23 juillet (midi)",
     "at": "le début",
     "kind": "Hebdomadaire",
-    "titre": "Mon ventre a paniqué avant moi",
+    "titre": "Mon ventre a panié avant moi",
     "body": "Dix minutes de mal de ventre juste avant son rendez-vous à la banque, puis plus rien de la journée. Félicie est médecin, elle n'a pas d'explication rationnelle. Laure remonte le fil.",
     "win": "",
     "tags": [
@@ -293,6 +293,21 @@
     ]
   },
   {
+    "who": "Sophie",
+    "date": "2026-07-10",
+    "jour": "vendredi 10 juillet (midi)",
+    "at": "20 min",
+    "kind": "Hebdomadaire",
+    "titre": "Comment dépasser la peur d'être seule quand je n'arrive plus à me gérer ?",
+    "body": "Un an après la séparation : plus de maison, plus de pilier, un boulot qui s'arrête. Gorge nouée, ventre serré, et l'envie d'écrire à son ex. Laure l'aide à s'occuper de ce qui fait mal.",
+    "win": "",
+    "tags": [
+      "Stress & anxiété",
+      "Solitude & vide",
+      "Enfant intérieur"
+    ]
+  },
+  {
     "who": "Eva",
     "date": "2026-07-10",
     "jour": "vendredi 10 juillet (midi)",
@@ -379,6 +394,20 @@
     "tags": [
       "Argent avec l'ex",
       "Garde & résidence",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-07-08",
+    "jour": "mercredi 8 juillet (soir)",
+    "at": "45 min",
+    "kind": "Juridique",
+    "titre": "« Je peux monter ma boîte en plein divorce ? »",
+    "body": "Elle a l'occasion de créer son entreprise, avec un an sans salaire. Peut-elle foncer en plein divorce, ou vaut-il mieux attendre ? Maître Jouan pèse le pour et le contre.",
+    "win": "",
+    "tags": [
+      "Pro & reconversion",
       "Procédure & audience"
     ]
   },
@@ -499,6 +528,36 @@
       "Dépendance affective",
       "Solitude & vide",
       "Poser ses limites"
+    ]
+  },
+  {
+    "who": "Nolwenn",
+    "date": "2026-07-03",
+    "jour": "vendredi 3 juillet (midi)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« J'ai peur du non, et chaque non renforce ma solitude »",
+    "body": "Trois semaines de formation loin de chez elle, attendue depuis trois ans. Personne pour garder les enfants, et elle vient de prendre ses distances avec ses parents. Demander de l'aide, elle ne sait pas faire.",
+    "win": "A osé envoyer un SMS à une maman de l'école pour demander de l'aide, le matin même.",
+    "tags": [
+      "Logistique & organisation",
+      "Solitude & vide",
+      "Ma famille & mes proches"
+    ]
+  },
+  {
+    "who": "Aurélie",
+    "date": "2026-07-03",
+    "jour": "vendredi 3 juillet (midi)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "Garde alternée sur le papier, seule dans la vraie vie",
+    "body": "Sur le papier, c'est une garde alternée. Dans les faits, il ne prend plus les enfants et ne verse plus rien depuis septembre. Elle sait ce qu'il faudrait faire, mais elle traîne des pieds.",
+    "win": "",
+    "tags": [
+      "Argent avec l'ex",
+      "Garde & résidence",
+      "Procrastination"
     ]
   },
   {
