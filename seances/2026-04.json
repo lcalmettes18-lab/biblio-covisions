@@ -15,6 +15,35 @@
     ]
   },
   {
+    "who": "Suzy",
+    "date": "2026-04-21",
+    "jour": "mardi 21 avril (midi)",
+    "at": "20 min",
+    "kind": "Juridique",
+    "titre": "Sa fille de 12 ans veut vivre chez sa mère à plein temps",
+    "body": "Garde alternée depuis un jugement de 2023. Sa fille dit qu'elle ne se sent pas respectée chez son père et demande à changer. Comment revenir devant le juge, et avec quelles preuves.",
+    "win": "",
+    "tags": [
+      "Garde & résidence",
+      "Procédure & audience"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-04-21",
+    "jour": "mardi 21 avril (midi)",
+    "at": "45 min",
+    "kind": "Juridique",
+    "titre": "Le seul logement qu'on lui propose passe par un dépôt de plainte",
+    "body": "Marine cherche un logement à Bayonne et n'en trouve aucun en tant que mère solo. La seule porte prioritaire passe par une plainte, qu'elle ne veut pas déposer. Maître Pujol dit ce que ça déclenche.",
+    "win": "",
+    "tags": [
+      "Se reloger",
+      "Procédure & audience",
+      "Logistique & organisation"
+    ]
+  },
+  {
     "who": "Marine",
     "date": "2026-04-21",
     "jour": "mardi 21 avril (midi)",
@@ -71,6 +100,21 @@
     ]
   },
   {
+    "who": "Céline",
+    "date": "2026-04-17",
+    "jour": "vendredi 17 avril (midi)",
+    "at": "15 min",
+    "kind": "Hebdomadaire",
+    "titre": "Depuis ses 10 ans, une voix lui dit qu'elle est nulle",
+    "body": "Sa directrice lui claque la porte au nez, son responsable lui reproche ses congés. Et derrière, une phrase qui tourne depuis ses 10 ans : je suis nulle. Laure va chercher d'où elle vient.",
+    "win": "Elle est allée au cinéma seule avec sa fille de 19 ans, après une vraie discussion pour poser ce qui allait et ce qui n'allait pas.",
+    "tags": [
+      "Pro & reconversion",
+      "Estime de soi",
+      "Enfant intérieur"
+    ]
+  },
+  {
     "who": "Delphine",
     "date": "2026-04-17",
     "jour": "vendredi 17 avril (midi)",
@@ -117,6 +161,21 @@
     "who": "Marine",
     "date": "2026-04-13",
     "jour": "lundi 13 avril (soir)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "Dire à son avocat qu'elle arrête, sans le froisser",
+    "body": "Son avocat tape du poing sur la table et elle se sent humiliée. Elle veut en changer, mais elle a peur de sa réaction. Laure commence par chercher ce qui lui fait vraiment peur.",
+    "win": "Elle a trouvé une nouvelle avocate et elle se sent déjà mieux.",
+    "tags": [
+      "Procédure & audience",
+      "Poser ses limites",
+      "Techniques de communication"
+    ]
+  },
+  {
+    "who": "Marine",
+    "date": "2026-04-13",
+    "jour": "lundi 13 avril (soir)",
     "at": "45 min",
     "kind": "Hebdomadaire",
     "titre": "Elle les a bloquées, et elles appellent sa mère",
@@ -144,6 +203,20 @@
     ]
   },
   {
+    "who": "Céline",
+    "date": "2026-04-10",
+    "jour": "vendredi 10 avril (midi)",
+    "at": "1 h 05",
+    "kind": "Hebdomadaire",
+    "titre": "On lui demande le résultat, sans lui donner les outils",
+    "body": "Elle retourne dans un ancien poste qu'elle n'aime pas, où on lui refuse tous les aménagements qu'elle a demandés. Comment y retourner lundi avec un peu de motivation ?",
+    "win": "Elle arrive à se maquiller tous les jours, dans une période pourtant très dure.",
+    "tags": [
+      "Pro & reconversion",
+      "Estime de soi"
+    ]
+  },
+  {
     "who": "Aurélie",
     "date": "2026-04-10",
     "jour": "vendredi 10 avril (midi)",
@@ -155,6 +228,20 @@
     "tags": [
       "Fatigue & charge mentale",
       "Procrastination"
+    ]
+  },
+  {
+    "who": "Céline",
+    "date": "2026-04-10",
+    "jour": "vendredi 10 avril (midi)",
+    "at": "1 h 30",
+    "kind": "Hebdomadaire",
+    "titre": "Laisser sa fille de 5 ans chez son père, et lâcher le contrôle",
+    "body": "Sa fille de 5 ans part une semaine chez son père, et l'état dans lequel il est l'inquiète. Elle voudrait la laisser là-bas sans angoisser toute la semaine. Laure l'emmène sur le contrôle.",
+    "win": "",
+    "tags": [
+      "Garde & résidence",
+      "Stress & anxiété"
     ]
   },
   {
