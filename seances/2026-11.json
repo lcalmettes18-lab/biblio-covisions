@@ -30,6 +30,20 @@
     ]
   },
   {
+    "who": "Sophie",
+    "date": "2026-11-09",
+    "jour": "lundi 9 novembre (soir)",
+    "at": "35 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je suis complètement figée »",
+    "body": "Elle voulait savoir comment on sort de la dépendance affective. Mais ce jour-là, elle n'arrive plus à appliquer quoi que ce soit. Laure lui dit où est la limite de ce qu'on fait ici.",
+    "win": "",
+    "tags": [
+      "Dépendance affective",
+      "Stress & anxiété"
+    ]
+  },
+  {
     "who": "Alexia",
     "date": "2026-11-09",
     "jour": "lundi 9 novembre (soir)",
@@ -60,6 +74,21 @@
     ]
   },
   {
+    "who": "Pauline",
+    "date": "2026-11-08",
+    "jour": "dimanche 8 novembre (soir)",
+    "at": "45 min",
+    "kind": "Hebdomadaire",
+    "titre": "Il appelle en pleurant pour revenir, et le lendemain tout va bien",
+    "body": "Il l'appelle en cachette, il pleure, il demande à revenir. Puis il raconte à ses potes que tout va très bien avec sa compagne. Elle n'arrive pas à fermer la porte, et la raison n'est pas celle qu'on croit.",
+    "win": "Elle a dit non trois fois en trois jours.",
+    "tags": [
+      "Conflit avec l'ex",
+      "Communication avec l'ex",
+      "Garde & résidence"
+    ]
+  },
+  {
     "who": "Sabine F",
     "date": "2026-11-06",
     "jour": "vendredi 6 novembre (midi)",
@@ -72,6 +101,20 @@
       "Conflit avec l'ex",
       "Coparentalité",
       "Colère & injustice"
+    ]
+  },
+  {
+    "who": "Aurore G",
+    "date": "2026-11-06",
+    "jour": "vendredi 6 novembre (midi)",
+    "at": "40 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Je veux le garder, mais pas en relation. Comment ne pas me faire avoir encore ? »",
+    "body": "Relation très toxique, et elle a renoué. Elle voudrait juste le garder en sex-friend, lui en demande plus. Ce qui la retient de couper pour de bon : la peur de le faire souffrir.",
+    "win": "",
+    "tags": [
+      "Dépendance affective",
+      "Poser ses limites"
     ]
   },
   {
@@ -149,6 +192,21 @@
     ]
   },
   {
+    "who": "Maud",
+    "date": "2026-11-03",
+    "jour": "mardi 3 novembre (soir)",
+    "at": "5 min",
+    "kind": "Hebdomadaire",
+    "titre": "« Moins je fais de bruit, mieux c'est »",
+    "body": "Petit village, un ex bien installé, des enfants dont on jalouse la réussite. Elle a la sensation d'être rejetée en permanence, et son réflexe c'est de faire profil bas. Laure va chercher d'où ça vient.",
+    "win": "A osé demander à son entourage de lui lister ses qualités (module 5), et elle a lâché avec sa sœur.",
+    "tags": [
+      "Confiance en soi",
+      "Acceptation de soi",
+      "Enfant intérieur"
+    ]
+  },
+  {
     "who": "Delphine S",
     "date": "2026-11-03",
     "jour": "mardi 3 novembre (soir)",
@@ -161,6 +219,21 @@
       "Refaire ma vie amoureuse",
       "Dépendance affective",
       "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Nolwenn",
+    "date": "2026-11-02",
+    "jour": "lundi 2 novembre (soir)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "« Je me réveille en sursaut toutes les nuits entre 4h et 5h »",
+    "body": "Réveillée en sursaut toutes les nuits entre 4h et 5h, et plus de sommeil jusqu'au réveil. La peur d'oublier, la peur de ne pas y arriver, tout remonte la nuit. Laure lui montre où ça se traite.",
+    "win": "",
+    "tags": [
+      "Sommeil & hygiène de vie",
+      "Stress & anxiété",
+      "Fatigue & charge mentale"
     ]
   },
   {
