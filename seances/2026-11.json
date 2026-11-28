@@ -1,5 +1,35 @@
 [
   {
+    "who": "Mélodie",
+    "date": "2026-11-27",
+    "jour": "vendredi 27 novembre (midi)",
+    "at": "le début",
+    "kind": "Hebdomadaire",
+    "titre": "Le paquet de cigarettes est parti, et le sucre a pris sa place",
+    "body": "Elle a arrêté de fumer il y a deux mois. Depuis, c'est le sucre, tous les soirs, et le sport ne change rien. Laure explique pourquoi ce n'est ni une question de volonté ni une question de régime.",
+    "win": "Elle a arrêté de fumer, et ça tient depuis deux mois.",
+    "tags": [
+      "Addiction",
+      "Poids & nourriture",
+      "Enfant intérieur"
+    ]
+  },
+  {
+    "who": "Nolwenn",
+    "date": "2026-11-27",
+    "jour": "vendredi 27 novembre (midi)",
+    "at": "25 min",
+    "kind": "Hebdomadaire",
+    "titre": "Dès que je me sens seule, c'est à mon ex que je pense",
+    "body": "Elle n'arrive pas à croire qu'une relation saine soit possible pour elle. Et dès qu'elle a besoin de soutien, c'est son ex qu'elle recontacte. Laure lui dit d'où vient vraiment cette insécurité.",
+    "win": "",
+    "tags": [
+      "Solitude & vide",
+      "Refaire ma vie amoureuse",
+      "Dépendance affective"
+    ]
+  },
+  {
     "who": "Céline V",
     "date": "2026-11-23",
     "jour": "lundi 23 novembre (soir)",
